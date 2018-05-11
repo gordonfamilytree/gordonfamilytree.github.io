@@ -48,7 +48,7 @@ fam00009.html|Armstrong|Henry John /Armstrong/|November 5, 1883|Golden Valley, O
 fam00075.html|Armstrong|Jackson Joseph /Armstrong/|November 14, 2009||||
 fam00181.html|Armstrong|James  /Armstrong/|January 12, 1845|Camden, ON|December 24, 1930|Brussels Cemetery|
 fam00075.html|Armstrong|John Frederick /Armstrong/|August 9, 1978|Auburn, ON|||
-fam00001.html|Armstrong|Lori Anne /Armstrong/|June 20, 1972|Auburn, ON|||
+fam00001.html|Armstrong|Lori Ann /Armstrong/|June 20, 1972|Auburn, ON|||
 fam00116.html|Armstrong|Louise Jane /Armstrong/|December 11, 1887|Nipissing, ON|  Died:1966|North Bay, ON|
 fam00327.html|Armstrong|Margaret Jane /Armstrong/|June 22, 1879|Huron, ON|April 24, 1965|Shelburne Cemetery|
 fam00183.html|Armstrong|Martin McKim /Armstrong/|November 16, 1863|Pickering, ON|February 26, 1931|Ball’s Cemetery|
