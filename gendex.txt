@@ -1,82 +1,92 @@
 ;; Gedpage Version 2.21
-fam00039.html|?|?  /?/|  ||||
-fam00443.html|?|?  /?/|  ||||
 fam00134.html|?|?  /?/|  ||||
+fam00039.html|?|?  /?/|  ||||
+fam00452.html|?|?  /?/|  ||||
 fam00163.html|?|Abigail  /?/|September 28, 1862|ON|||
-fam00426.html|?|Alice  /?/|  ||||
-fam00372.html|?|Carol  /?/|  ||||
-fam00260.html|?|DJ  /?/|  ||||
-fam00257.html|?|Heather  /?/|  ||||
+fam00435.html|?|Alice  /?/|  ||||
+fam00381.html|?|Carol  /?/|  ||||
+fam00261.html|?|DJ  /?/|  ||||
+fam00258.html|?|Heather  /?/|  ||||
 fam00056.html|?|Jane  /?/|  1834|Lancashire, England|||
 fam00047.html|?|Jessie  /?/|  ||||
 fam00165.html|?|Jessie M /?/|  1876||  1949|Maple Ridge Cemetery|
-fam00380.html|?|Marion  /?/|  ||||
+fam00389.html|?|Marion  /?/|  ||||
 fam00207.html|?|Mary  /?/|July 13, 1840|ON|February 22, 1904|Hillsdale Cemetery|
-fam00374.html|?|Stephanie  /?/|  ||||
-fam00265.html|?|Susan  /?/|  ||||
-fam00221.html|Adamson|Catherine  /Adamson/|April 8, 1841|Yorkshire, England|November 16, 1910|Donnybrook United Cemetery|
-fam00309.html|Agar|Wilda Arlene /Agar/|January 8, 1934||||
-fam00305.html|Aikin|Robert L /Aikin/|January 22, 1894|Illinois, USA|December,  1970|Tulsa, OK|
+fam00383.html|?|Stephanie  /?/|  ||||
+fam00266.html|?|Susan  /?/|  ||||
+fam00222.html|Adamson|Catherine  /Adamson/|April 8, 1841|Yorkshire, England|November 16, 1910|Donnybrook United Cemetery|
+fam00310.html|Agar|Wilda Arlene /Agar/|January 8, 1934||||
+fam00306.html|Aikin|Robert L /Aikin/|January 22, 1894|Illinois, USA|December,  1970|Tulsa, OK|
 fam00088.html|Aitcheson|Margaret  /Aitcheson/|  1918||  2000|Blyth Union Cemetery|
 fam00186.html|Allen|Henry Wallace /Allen/|  1836|Lanark, ON|April 19, 1904|Burns United Cemetery|
 fam00029.html|Allen|Isabella  /Allen/|March 14, 1839|Ontario|April 6, 1909|Bluevale Cemetery|
 fam00045.html|Allen|James  /Allen/|  1806|Cork, Ireland|February 18, 1889|Burns United Cemetery|
 fam00187.html|Allen|John L /Allen/|January 30, 1844|ON|  1924|Burns United Cemetery|
-fam00405.html|Alton|Kenneth Ernest /Alton/|February 23, 1938||||
-fam00336.html|Anderson|Annie Pearl /Anderson/|January 1, 1887|ON|December 2, 1964|Blyth Union Cemetery|
-fam00448.html|Anderson|David  /Anderson/|  ||||
-fam00392.html|Anderson|Donna May /Anderson/|May 29, 1935|ON|||
-fam00391.html|Anderson|George Ross /Anderson/|December 4, 1921|ON|||
-fam00337.html|Anderson|Jean  /Anderson/|  1891||  1987|Brandon Cemetery|
-fam00359.html|Anderson|John  /Anderson/|November 27, 1894||November 25, 1970|Brandon Cemetery|
-fam00393.html|Anderson|Lloyd Cecil /Anderson/|July 8, 1932|ON|||
-fam00359.html|Anderson|Lois Marie /Anderson/|  1926|ON|  1929|ON|
-fam00242.html|Anderson|Robert M /Anderson/|  1858||April 13, 1917|Brandon Cemetery|
-fam00239.html|Appleton|Lillie  /Appleton/|  ||||
+fam00414.html|Alton|Kenneth Ernest /Alton/|February 23, 1938||||
+fam00343.html|Anderson|Annie Pearl /Anderson/|January 1, 1887|ON|December 2, 1964|Blyth Union Cemetery|
+fam00457.html|Anderson|David  /Anderson/|  ||||
+fam00401.html|Anderson|Donna May /Anderson/|May 29, 1935|ON|||
+fam00400.html|Anderson|George Ross /Anderson/|December 4, 1921|ON|||
+fam00344.html|Anderson|Jean  /Anderson/|  1891||  1987|Brandon Cemetery|
+fam00368.html|Anderson|John  /Anderson/|November 27, 1894||November 25, 1970|Brandon Cemetery|
+fam00402.html|Anderson|Lloyd Cecil /Anderson/|July 8, 1932|ON|||
+fam00368.html|Anderson|Lois Marie /Anderson/|  1926|ON|  1929|ON|
+fam00243.html|Anderson|Robert M /Anderson/|  1858||April 13, 1917|Brandon Cemetery|
+fam00240.html|Appleton|Lillie  /Appleton/|  ||||
 fam00133.html|Armstrong|Adam  /Armstrong/|October 12, 1848|ON|||
 fam00062.html|Armstrong|Albert  /Armstrong/|February 21, 1862||||
+fam00333.html|Armstrong|Beatrice Edna /Armstrong/|  1889|Huron, ON|  1950|Brussels Cemetery|
+fam00334.html|Armstrong|Bertha C /Armstrong/|  ||||
 fam00077.html|Armstrong|Carol  /Armstrong/|September 24, 1941|Auburn, ON|||
 fam00180.html|Armstrong|Charles  /Armstrong/|December 25, 1854|Camden, ON|January 15, 1929|Shelburne Cemetery|
+fam00181.html|Armstrong|Chester  /Armstrong/|  ||December 28, 1918|Brussels Cemetery|
 fam00074.html|Armstrong|Donna Lynn /Armstrong/|June 20, 1974|Auburn, ON|||
-fam00328.html|Armstrong|Elmer Roy /Armstrong/|March 4, 1896|Huron, ON|  1980|Fariview Cemetery|
+fam00338.html|Armstrong|Edna May /Armstrong/|  1893|Huron, ON|  1974|Clinton Cemetery|
+fam00330.html|Armstrong|Elmer Roy /Armstrong/|March 4, 1896|Huron, ON|  1980|Fariview Cemetery|
+fam00181.html|Armstrong|Emma May /Armstrong/|  1899|Huron, ON|  1964|Brussels Cemetery|
 fam00117.html|Armstrong|Florence  /Armstrong/|  1884|Algoma, ON|October 1, 1913|Colborne Cemetery|
 fam00030.html|Armstrong|Frederick  /Armstrong/|May 29, 1880|ON|October 18, 1895|Powassan Union Cemetery|
 fam00003.html|Armstrong|Frederick John /Armstrong/|December 13, 1942|Auburn, ON|||
-fam00352.html|Armstrong|G Wilbert /Armstrong/|  1908||April,  1967|Brandon Cemetery|
+fam00359.html|Armstrong|G Wilbert /Armstrong/|  1908||April,  1967|Brandon Cemetery|
 fam00115.html|Armstrong|Gertrude Rose Pearl /Armstrong/|April 1, 1885|Nipissing, ON|December,  1977|Colborne Cemetery|
-fam00352.html|Armstrong|Helen Ann /Armstrong/|November 3, 1945|Wingham, ON|||
+fam00183.html|Armstrong|Harvey  /Armstrong/|  1902|Huron, ON|  1924|Ball’s Cemetery|
+fam00359.html|Armstrong|Helen Ann /Armstrong/|November 3, 1945|Wingham, ON|||
 fam00009.html|Armstrong|Henry John /Armstrong/|November 5, 1883|Golden Valley, ON|April 12, 1969|Blyth Union Cemetery|
 fam00075.html|Armstrong|Jackson Joseph /Armstrong/|November 14, 2009||||
 fam00181.html|Armstrong|James  /Armstrong/|January 12, 1845|Camden, ON|December 24, 1930|Brussels Cemetery|
+fam00341.html|Armstrong|Jean  /Armstrong/|October 14, 1888|Huron, ON|||
 fam00075.html|Armstrong|John Frederick /Armstrong/|August 9, 1978|Auburn, ON|||
+fam00341.html|Armstrong|John Wesley /Armstrong/|September 18, 1885|Huron, ON|||
+fam00335.html|Armstrong|Joseph Charles /Armstrong/|  ||||
 fam00001.html|Armstrong|Lori Ann /Armstrong/|June 20, 1972|Auburn, ON|||
 fam00116.html|Armstrong|Louise Jane /Armstrong/|December 11, 1887|Nipissing, ON|  Died:1966|North Bay, ON|
-fam00334.html|Armstrong|Margaret Jane /Armstrong/|June 22, 1879|Huron, ON|April 24, 1965|Shelburne Cemetery|
+fam00340.html|Armstrong|Margaret Jane /Armstrong/|June 22, 1879|Huron, ON|April 24, 1965|Shelburne Cemetery|
 fam00183.html|Armstrong|Martin McKim /Armstrong/|November 16, 1863|Pickering, ON|February 26, 1931|Ball’s Cemetery|
-fam00410.html|Armstrong|Mary Alice /Armstrong/|May 26, 1940|Wingham, ON|October 23, 2007|Wingham, ON|
+fam00419.html|Armstrong|Mary Alice /Armstrong/|May 26, 1940|Wingham, ON|October 23, 2007|Wingham, ON|
 fam00185.html|Armstrong|Mary Ann /Armstrong/|December 1, 1844|Camden, ON|May 24, 1926|Ball’s Cemetery|
-fam00330.html|Armstrong|Mildred Patience /Armstrong/|February 15, 1887|Huron, ON|||
-fam00331.html|Armstrong|Myrtle Mary /Armstrong/|May 5, 1892|Huron, ON|November 22, 1957|Shelburne Cemetery|
-fam00329.html|Armstrong|Olla Blanche /Armstrong/|August 12, 1895|Brussels, ON|March 5, 1964|Fairview Cemetery|
+fam00332.html|Armstrong|Mildred Patience /Armstrong/|February 15, 1887|Huron, ON|||
+fam00336.html|Armstrong|Myrtle Mary /Armstrong/|May 5, 1892|Huron, ON|November 22, 1957|Shelburne Cemetery|
+fam00331.html|Armstrong|Olla Blanche /Armstrong/|August 12, 1895|Brussels, ON|March 5, 1964|Fairview Cemetery|
 fam00009.html|Armstrong|Robert H /Armstrong/|  1921|Auburn, ON|  1985|Blyth Union Cemetery|
-fam00332.html|Armstrong|Robert Nelson /Armstrong/|February 9, 1890|ON|  1963|Shelburne Cemetery|
 fam00184.html|Armstrong|Robert Nelson /Armstrong/|December 28, 1857|ON|December 25, 1920|Greenfield Cemetery|
-fam00335.html|Armstrong|Sarah Annie /Armstrong/|February 13, 1898|Huron, ON|||
+fam00337.html|Armstrong|Robert Nelson /Armstrong/|February 9, 1890|ON|  1963|Shelburne Cemetery|
+fam00183.html|Armstrong|Roy  /Armstrong/|  1909|Huron, ON|  1909|Ball’s Cemetery|
+fam00342.html|Armstrong|Sarah Annie /Armstrong/|February 13, 1898|Huron, ON|||
 fam00030.html|Armstrong|Thomas Henry /Armstrong/|  ||February 19, 1892|Powasson Union Cemetery|
-fam00333.html|Armstrong|Thomas Sydney /Armstrong/|March 24, 1892|Huron, ON|March 27, 1953|Waterloo, ON|
+fam00339.html|Armstrong|Thomas Sydney /Armstrong/|March 24, 1892|Huron, ON|March 27, 1953|Waterloo, ON|
 fam00062.html|Armstrong|William  /Armstrong/|  1820|Armagh, Ireland|May 20, 1890|Ball’s Cemetery|
-fam00327.html|Armstrong|William Edward /Armstrong/|April 2, 1881|Huron, ON|  1971|Shelburne Cemetery|
+fam00329.html|Armstrong|William Edward /Armstrong/|April 2, 1881|Huron, ON|  1971|Shelburne Cemetery|
 fam00118.html|Armstrong|William James /Armstrong/|May 29, 1878|ON|October 7, 1943|Greenwood Cemetery, Algoma|
-fam00004.html|Armstrong|William John /Armstrong/|November 1, 1917|Auburn, ON|February 7, 2006|Blyth Union Cemetery|
 fam00182.html|Armstrong|William John /Armstrong/|January 9, 1861|Pickering, ON|January 28, 1944|Westminster Memorial Park Cemetery|
+fam00004.html|Armstrong|William John /Armstrong/|November 1, 1917|Auburn, ON|February 7, 2006|Blyth Union Cemetery|
 fam00043.html|Askwith|Jane Vera /Askwith/|August 16, 1845|Yorkshire, England|August 29, 1911|Yelm Public Cemetery|
-fam00416.html|Atchison|Victor Gerald /Atchison/|  1914|ON|December 2, 1987|Avondale Cemetery|
-fam00346.html|Atkinson|Alice  /Atkinson/|November 16, 1876|Palmerston, ON|March 27, 1952|Red Deer, Alberta|
-fam00338.html|Austin|Richard E /Austin/|February 6, 1873|ON|||
-fam00428.html|Baker|Cora M /Baker/|  1901||  1958|Wingham Cemetery|
+fam00425.html|Atchison|Victor Gerald /Atchison/|  1914|ON|December 2, 1987|Avondale Cemetery|
+fam00353.html|Atkinson|Alice  /Atkinson/|November 16, 1876|Palmerston, ON|March 27, 1952|Red Deer, Alberta|
+fam00345.html|Austin|Richard E /Austin/|February 6, 1873|ON|||
+fam00437.html|Baker|Cora M /Baker/|  1901||  1958|Wingham Cemetery|
 fam00042.html|Ballagh|Elizabeth  /Ballagh/|  1820|Ireland|July 21, 1891|Culross Teeswater Cemetery|
 fam00065.html|Ballagh|John Hamilton /Ballagh/|  ||||
-fam00217.html|Barr|Louise Jane /Barr/|  1859||March 27, 1944|Brandon Cemetery|
+fam00218.html|Barr|Louise Jane /Barr/|  1859||March 27, 1944|Brandon Cemetery|
 fam00069.html|Bateson|Ann  /Bateson/|November 1, 1809|Dunkeswick Harewood, Yorkshire, England|December 14, 1854|England|
 fam00070.html|Bateson|Charles  /Bateson/|January 7, 1782|Yorkshire, England|January,  1848|England|
 fam00013.html|Beadle|Emma Maud /Beadle/|June 17, 1876|Huron, ON|January 9, 1936|Wingham Cemetery|
@@ -85,7 +95,7 @@ fam00022.html|Beadle|George  /Beadle/|April 4, 1834|Yorkshire, England|January 1
 fam00119.html|Beadle|George Edmund /Beadle/|November 5, 1865|Huron, ON|  1959|Ball’s Cemetery|
 fam00188.html|Beadle|Henry  /Beadle/|  1840|England|  1926|Cochrane, AB|
 fam00122.html|Beadle|John Nathan /Beadle/|November 20, 1880|Huron, ON|June 27, 1969|Huron, ON|
-fam00284.html|Beadle|Lillian Georgina /Beadle/|January 28, 1901|Huron, ON|||
+fam00285.html|Beadle|Lillian Georgina /Beadle/|January 28, 1901|Huron, ON|||
 fam00121.html|Beadle|Mary Jane /Beadle/|  1858|Yorkshire, England|February 16, 1920|Detroid, MI|
 fam00123.html|Beadle|Rita Ellen /Beadle/|February  1870|Huron, ON|February 21, 1936|Clinton Cemetery|
 fam00124.html|Beadle|Susan Charlotte /Beadle/|  1862|Huron, ON|December 19, 1909||
@@ -94,22 +104,23 @@ fam00022.html|Beadle|William Thomas /Beadle/|  1860|Huron, ON|  1862|Ball’s Ceme
 fam00076.html|Beck|Axel Maddox Gordon /Beck/|July 19, 2013||||
 fam00076.html|Beck|Matt  /Beck/|  ||||
 fam00076.html|Beck|Revel Mayzee /Beck/|July 3, 2015||||
-fam00285.html|Beecroft|John Dustan /Beecroft/|  1890|Huron, ON|  1985|Wingham Cemetery|
-fam00286.html|Beecroft|Lewis Gilbert /Beecroft/|March 29, 1887|Wingham, ON|Octobert 2, 1963|Edmonton, AB|
+fam00286.html|Beecroft|John Dustan /Beecroft/|  1890|Huron, ON|  1985|Wingham Cemetery|
+fam00287.html|Beecroft|Lewis Gilbert /Beecroft/|March 29, 1887|Wingham, ON|Octobert 2, 1963|Edmonton, AB|
 fam00160.html|Beecroft|Myrtle  /Beecroft/|  ||||
 fam00160.html|Beecroft|William  /Beecroft/|November 12, 1859|Wingham, ON|December 15, 1909|Wingham Cemetery|
-fam00228.html|Bell|Laveunia A /Bell/|May 30, 1857|ON|February 19, 1925|Langside Cemetery|
-fam00212.html|Bertchy|Dora Elizabeth /Bertchy/|February 26, 1871|Washington, USA|  1958|Yelm Public Cemetery|
+fam00229.html|Bell|Laveunia A /Bell/|May 30, 1857|ON|February 19, 1925|Langside Cemetery|
+fam00338.html|Bentley|Russell Clarence /Bentley/|  1898|ON|  1985|Clinton Cemetery|
+fam00213.html|Bertchy|Dora Elizabeth /Bertchy/|February 26, 1871|Washington, USA|  1958|Yelm Public Cemetery|
 fam00067.html|Best|Alice  /Best/|  1810|Ireland|October 28, 1898|Londesboro Cemetery|
 fam00186.html|Best|Mary Ann /Best/|  1854|ON|  1928|Burns United Cemetery|
 fam00187.html|Best|Sarah Maria /Best/|January 27, 1861|ON|  1926|Burns United Cemetery|
-fam00281.html|Beuerman|Ray  /Beuerman/|  1935||January 13, 2010|Brussels Cemetery|
+fam00282.html|Beuerman|Ray  /Beuerman/|  1935||January 13, 2010|Brussels Cemetery|
 fam00048.html|Black|John  /Black/|December 8, 1826|Dungannon, Ireland|February 13, 1921|Dungannon Cemetery|
-fam00422.html|Black|John  /Black/|  ||||
+fam00431.html|Black|John  /Black/|  ||||
 fam00062.html|Black|Patience  /Black/|November 6, 1825|Frontenac, ON|April 21, 1909|Ball’s Cemetery|
 fam00023.html|Black|Susan Elizabeth /Black/|April 6, 1854|Huron, ON|  1942|Langside/Tiffins Cemetery|
-fam00415.html|Blair|M Anne /Blair/|  1909|ON|  1993|Blyth Union Cemetery|
-fam00326.html|Bourgeois|Yvonne A /Bourgeois/|July 18, 1896|MB|April 24, 1980|Calvary Cemetery|
+fam00424.html|Blair|M Anne /Blair/|  1909|ON|  1993|Blyth Union Cemetery|
+fam00327.html|Bourgeois|Yvonne A /Bourgeois/|July 18, 1896|MB|April 24, 1980|Calvary Cemetery|
 fam00193.html|Boyd|Anne  /Boyd/|  ||April 9, 1873|Culross Teeswater Cemetery|
 fam00028.html|Boyd|Elizabeth  /Boyd/|April 7, 1852|Durham, ON|June 12, 1901|Brandon Cemetery|
 fam00189.html|Boyd|Isabella  /Boyd/|June 10, 1849|ON|||
@@ -118,49 +129,50 @@ fam00191.html|Boyd|John James /Boyd/|November 4, 1848|ON|July 20, 1906|Culross T
 fam00192.html|Boyd|Margaret  /Boyd/|  1856|Bruce, ON|July 23, 1900|Culross Teeswater Cemetery|
 fam00190.html|Boyd|Mary Jane /Boyd/|  1845|ON|  1898|Culross Teeswater Cemetery|
 fam00107.html|Breckenridge|Helen Madeline /Breckenridge/|  1933||April 20, 2014|Brussels Cemetery|
-fam00323.html|Bremner|Sara Margaret /Bremner/|January 12, 1904|Barrie, ON|August 29, 1988|Walkerton Cemetery|
-fam00244.html|Brewer|E A /Brewer/|  ||||
-fam00318.html|Brindley|Mary Evalena /Brindley/|  1902|Huron, ON|  1967|Colborne Cemetery|
+fam00324.html|Bremner|Sara Margaret /Bremner/|January 12, 1904|Barrie, ON|August 29, 1988|Walkerton Cemetery|
+fam00245.html|Brewer|E A /Brewer/|  ||||
+fam00319.html|Brindley|Mary Evalena /Brindley/|  1902|Huron, ON|  1967|Colborne Cemetery|
 fam00195.html|Brodie|Agnes  /Brodie/|  ||||
 fam00038.html|Brodie|Daniel  /Brodie/|October,  1785|Dunbartonshire, Scotland|July,  1850|Murray Cemetery|
-fam00246.html|Brodie|Helen  /Brodie/|  1798|Arrochar, Dunbartonshire, Scotland|March 4, 1878|Arkona Cemetery|
+fam00247.html|Brodie|Helen  /Brodie/|  1798|Arrochar, Dunbartonshire, Scotland|March 4, 1878|Arkona Cemetery|
 fam00194.html|Brodie|Jessie  /Brodie/|  1837||  1906|Beechwood Cemetery|
 fam00066.html|Brodie|John  /Brodie/|  1760|Scotland|  1801||
 fam00196.html|Brodie|Malcolm  /Brodie/|September 9, 1828|Dunbartonshire, Scotland|January 18, 1913|Beechwood Cemetery|
 fam00017.html|Brodie|Margaret  /Brodie/|April  1840|Scotland|September 30, 1911|Hillsdale Cemetery|
 fam00197.html|Brodie|Mary  /Brodie/|  1846|Scotland|May 30, 1905|Beechwood Cemetery|
-fam00272.html|Brooks|Sandra EI /Brooks/|July 10, 1944||September 24, 2000|Hillsdale Cemetery|
-fam00429.html|Brown|Agnes  /Brown/|  |Scotland|||
-fam00247.html|Brownridge|Mary Ann /Brownridge/|  1826|ON|December 2, 1909|Brandon Cemetery|
-fam00283.html|Brunkard|Beth  /Brunkard/|  ||||
+fam00273.html|Brooks|Sandra EI /Brooks/|July 10, 1944||September 24, 2000|Hillsdale Cemetery|
+fam00438.html|Brown|Agnes  /Brown/|  |Scotland|||
+fam00248.html|Brownridge|Mary Ann /Brownridge/|  1826|ON|December 2, 1909|Brandon Cemetery|
+fam00284.html|Brunkard|Beth  /Brunkard/|  ||||
 fam00144.html|Brydges|Margaret Lila Rose /Brydges/|November 18, 1895|Belgrave, ON|August 8, 1989|Brandon Cemetery|
-fam00433.html|Buchanan|Hilda  /Buchanan/|  1894||  1961|Wingham, ON|
+fam00442.html|Buchanan|Hilda  /Buchanan/|  1894||  1961|Wingham, ON|
 fam00206.html|Burns|Esther Isabella /Burns/|September 27, 1863|Huron, ON|January 4, 1946|Brussels Cemetery|
 fam00102.html|Cameron|Jean Margaret /Cameron/|July 19, 1916|Lanark, ON|January 11, 2008|Wingham Cemetery|
-fam00409.html|Cameron|Mary Louise /Cameron/|January 12, 1929|Walkerton, ON|January 19, 2017|Brandon Cemetery|
+fam00418.html|Cameron|Mary Louise /Cameron/|January 12, 1929|Walkerton, ON|January 19, 2017|Brandon Cemetery|
 fam00166.html|Campbell|Charles Graham /Campbell/|  1859|Morris, ON|July 14, 1934|Wingham Cemetery|
 fam00161.html|Campbell|Elizabeth Ann /Campbell/|November 21, 1861|Huron, ON|September 7, 1953|Wingham Cemetery|
-fam00259.html|Campbell|Heather  /Campbell/|  ||||
+fam00260.html|Campbell|Heather  /Campbell/|  ||||
 fam00196.html|Campbell|Isabella  /Campbell/|May 5, 1840|Inverness, Scotland|November 9, 1894|Beechwood Cemetery|
 fam00157.html|Campbell|Isabella Morton /Campbell/|  1864|ON|||
-fam00246.html|Campbell|John  /Campbell/|March 6, 1797|Arrochar, Dunbartonshire, Scotland|April 22, 1873|Arkona Cemetery|
 fam00047.html|Campbell|John  /Campbell/|  ||||
+fam00247.html|Campbell|John  /Campbell/|March 6, 1797|Arrochar, Dunbartonshire, Scotland|April 22, 1873|Arkona Cemetery|
+fam00333.html|Campbell|John Allan /Campbell/|  1890|Manitoba|  1960|Wingham Cemetery|
 fam00178.html|Campbell|Lillian May /Campbell/|May 16, 1877|ON|November 10, 1924|Culross Teeswater Cemetery|
 fam00026.html|Campbell|Sarah  /Campbell/|August 18, 1854|Ontario|August 26, 1931|St. Stephen’s Cemetery|
-fam00307.html|Carmichael|James Darwin /Carmichael/|February 13, 1903|Brussels, ON|November 22, 1964|Maitland Cemetery|
-fam00381.html|Carmichael|John Martin /Carmichael/|July 17, 1936|ON|March 3, 2000|Brandon Cemetery|
-fam00382.html|Carmichael|Lillian M /Carmichael/|March 23, 1938|Huron, ON|June 17, 1998|Monkton Cemetery|
+fam00308.html|Carmichael|James Darwin /Carmichael/|February 13, 1903|Brussels, ON|November 22, 1964|Maitland Cemetery|
+fam00390.html|Carmichael|John Martin /Carmichael/|July 17, 1936|ON|March 3, 2000|Brandon Cemetery|
+fam00391.html|Carmichael|Lillian M /Carmichael/|March 23, 1938|Huron, ON|June 17, 1998|Monkton Cemetery|
 fam00106.html|Carne|Winnifred  /Carne/|  1910||||
 fam00083.html|Carter|Barbara Anne /Carter/|November 13, 1947||||
-fam00379.html|Carter|Bob  /Carter/|  ||||
-fam00265.html|Carter|Bruce  /Carter/|  ||||
+fam00388.html|Carter|Bob  /Carter/|  ||||
+fam00266.html|Carter|Bruce  /Carter/|  ||||
 fam00205.html|Carter|Catherine Elizabeth /Carter/|  1863|Huron, ON|April 14, 1906|Brussels Cemetery|
 fam00087.html|Carter|Clarissa May /Carter/|October 10, 1923|Eastend, SK|December 10, 2005|British Columbia|
 fam00086.html|Carter|Cliff William /Carter/|April 24, 1919|Eastend, SK|March 4, 2010||
-fam00380.html|Carter|Dave  /Carter/|  ||||
+fam00389.html|Carter|Dave  /Carter/|  ||||
 fam00016.html|Carter|David James /Carter/|February 13, 1867|Huron, ON|December 3, 1957|Blyth Union Cemetery|
 fam00126.html|Carter|David Reginald /Carter/|August 4, 1896|Blyth, ON|||
-fam00287.html|Carter|Derwin R /Carter/|  1914|ON|||
+fam00288.html|Carter|Derwin R /Carter/|  1914|ON|||
 fam00004.html|Carter|Elva Jane /Carter/|July 11, 1922|Eastend, SK|March 4, 2015|Blyth Union Cemetery|
 fam00131.html|Carter|Evelyn Irene /Carter/|January 31, 1912|Blyth, ON|  1983|Blyth Union Cemetery|
 fam00199.html|Carter|Francis Jane /Carter/|November 5, 1855|Huron, ON|December 18, 1941|Greenwood Cemetery|
@@ -168,281 +180,286 @@ fam00128.html|Carter|Harold Leonard /Carter/|July 13, 1909|Blyth, ON|August 14, 
 fam00088.html|Carter|Harold M /Carter/|November 28, 1917|Eastend, SK|April 29, 2007|Blyth Union Cemetery|
 fam00010.html|Carter|Henry John /Carter/|March 19, 1890|ON|July 23, 1973|Blyth Union Cemetery|
 fam00089.html|Carter|Irene  /Carter/|  1918|Eastend, SK|||
-fam00200.html|Carter|John  /Carter/|December 16, 1858|Huron, ON|  1941|Maitlandbank Cemetery|
 fam00049.html|Carter|John  /Carter/|May 8, 1832|Leeds, England|March 5, 1911|Brussels Cemetery|
+fam00200.html|Carter|John  /Carter/|December 16, 1858|Huron, ON|  1941|Maitlandbank Cemetery|
 fam00201.html|Carter|Joseph  /Carter/|February 9, 1861|Huron, ON|  1940|Colborne Cemetery|
-fam00287.html|Carter|Lenore Margaret /Carter/|August 16, 1915|ON|May 23, 2006|Oxford Memorial Park Cemetery|
+fam00288.html|Carter|Lenore Margaret /Carter/|August 16, 1915|ON|May 23, 2006|Oxford Memorial Park Cemetery|
 fam00125.html|Carter|Margaret Jane /Carter/|May 15, 1894|Blyth, ON|July 6, 1987|Blyth Union Cemetery|
 fam00203.html|Carter|Margaret Rebecca /Carter/|April 1, 1871|Huron, ON|November 12, 1965|ON|
 fam00198.html|Carter|Mary Ann /Carter/|October 9, 1856|Huron, ON|August 5, 1951|Maitlandbank Cemetery|
 fam00127.html|Carter|Mary Ellen /Carter/|February 19, 1892|Blyth, ON|  1964|Blyth Union Cemetery|
-fam00287.html|Carter|Sally Ann /Carter/|  1950|ON|October 2, 2016|Woodstock, ON|
+fam00288.html|Carter|Sally Ann /Carter/|  1950|ON|October 2, 2016|Woodstock, ON|
 fam00202.html|Carter|Samuel  /Carter/|February 9, 1869|Huron, ON|January 9, 1943|Brussels Cemetery|
 fam00130.html|Carter|Samuel Russel /Carter/|September 2, 1904|Blyth, ON|January 10, 1993|Maitlandbank Cemetery|
-fam00229.html|Carter|Sarah Marie /Carter/|March 20, 1874|ON|  1923|Cochrane, ON|
-fam00266.html|Carter|Susan  /Carter/|  ||||
+fam00230.html|Carter|Sarah Marie /Carter/|March 20, 1874|ON|  1923|Cochrane, ON|
+fam00267.html|Carter|Susan  /Carter/|  ||||
 fam00206.html|Carter|William Arthur /Carter/|December 31, 1862|Huron, ON|December 29, 1911|Brussels Cemetery|
 fam00132.html|Carter|William James /Carter/|  1899|Blyth, ON|November 14, 1985|Blyth Union Cemetery|
 fam00129.html|Carter|Zella May /Carter/|May 12, 1902|Blyth, ON|October 1, 1996|Ball’s Cemetery|
-fam00267.html|Chapman|Mary Aileen /Chapman/|August 25, 1930|Petrolia, ON|March 25, 2017|Dartmouth, NS|
+fam00268.html|Chapman|Mary Aileen /Chapman/|August 25, 1930|Petrolia, ON|March 25, 2017|Dartmouth, NS|
 fam00090.html|Chapman|Ralph Edward /Chapman/|January 19, 1899|ON|October 30, 1958|Hillsdale Cemetery|
 fam00136.html|Chittick|John Wood /Chittick/|  1842|Ireland|October 14, 1897|Petrolia, ON|
-fam00288.html|Chittick|Martha Florence /Chittick/|May 13, 1880|Lambton, ON|||
-fam00255.html|Claridge|Jonathan  /Claridge/|  ||||
-fam00181.html|Clark|Amelia Victoria /Clark/|December 14, 1858|Pickering, ON|September 30, 1948|Brussels Cemetery|
-fam00223.html|Clark|William  /Clark/|  1834|Lincolnshire, England|July,  1866|Lincolnshire, England|
-fam00277.html|Clarke|Connie  /Clarke/|  ||||
+fam00289.html|Chittick|Martha Florence /Chittick/|May 13, 1880|Lambton, ON|||
+fam00256.html|Claridge|Jonathan  /Claridge/|  ||||
+fam00181.html|Clark|Amelia Victoria /Clark/|December 14, 1858|Pickering, ON|September 30, 1938|Brussels Cemetery|
+fam00224.html|Clark|William  /Clark/|  1834|Lincolnshire, England|July,  1866|Lincolnshire, England|
+fam00278.html|Clarke|Connie  /Clarke/|  ||||
 fam00057.html|Clarkson|Hannah Townsend /Clarkson/|February 6, 1827|England|April 12, 1907|Love Cemetery|
-fam00434.html|Collins|Laurie  /Collins/|  ||||
+fam00443.html|Collins|Laurie  /Collins/|  ||||
 fam00191.html|Colvin|Dorcas Jane /Colvin/|November 4, 1855|Perth, ON|April 8, 1933|Culross Teeswater Cemetery|
 fam00126.html|Cook|Janet May /Cook/|July 6, 1896|Huron, ON|||
 fam00103.html|Cook|Margaret  /Cook/|  ||||
-fam00330.html|Cooper|James Elwwod /Cooper/|September 30, 1882|ON|||
+fam00332.html|Cooper|James Elwwod /Cooper/|September 30, 1882|ON|||
 fam00150.html|Copland|William Thomas Hunter /Copland/|May 24, 1867|Liverpool, England|June 16, 1938|Harriston Cemetery|
-fam00335.html|Corbett|William John /Corbett/|August 19, 1893|ON|||
+fam00342.html|Corbett|William John /Corbett/|August 19, 1893|ON|||
 fam00175.html|Coulter|Sarah Jane /Coulter/|  1883||  1967|Hillsdale Cemetery|
-fam00423.html|Coultes|Mabel Isabel /Coultes/|May 16, 1923|ON|May 18, 2008|Brandon Cemetery|
-fam00397.html|Coulthart|Grace W J /Coulthart/|April 18, 1939|Paisley, Scotland|||
-fam00373.html|Coupland|Judy  /Coupland/|  ||||
-fam00372.html|Coupland|Kevin  /Coupland/|  ||||
-fam00278.html|Coupland|Stewart John /Coupland/|  ||June 2, 2015|Wingham Cemetery|
-fam00237.html|Cowan|Thomas  /Cowan/|January 2, 1847|Quebec|March 6, 1937|Huron, ON|
+fam00432.html|Coultes|Mabel Isabel /Coultes/|May 16, 1923|ON|May 18, 2008|Brandon Cemetery|
+fam00406.html|Coulthart|Grace W J /Coulthart/|April 18, 1939|Paisley, Scotland|||
+fam00382.html|Coupland|Judy  /Coupland/|  ||||
+fam00381.html|Coupland|Kevin  /Coupland/|  ||||
+fam00279.html|Coupland|Stewart John /Coupland/|  ||June 2, 2015|Wingham Cemetery|
+fam00238.html|Cowan|Thomas  /Cowan/|January 2, 1847|Quebec|March 6, 1937|Huron, ON|
 fam00086.html|Cox|Irene Rose /Cox/|December 28, 1921|Ewshott, England|May 20, 2003||
 fam00096.html|Cox|Stewart H A /Cox/|January 9, 1924||February 10, 1995|Hillsdale Cemetery|
-fam00267.html|Cox|Vern  /Cox/|  ||||
+fam00268.html|Cox|Vern  /Cox/|  ||||
 fam00101.html|Coyne|Leonard  /Coyne/|  ||||
 fam00122.html|Craig|Catherine May /Craig/|January 24, 1889|Huron, ON|June 23, 1941|Huron, ON|
-fam00419.html|Crellin|Bernard  /Crellin/|  ||||
+fam00428.html|Crellin|Bernard  /Crellin/|  ||||
 fam00174.html|Crockard|James Holmes /Crockard/|March 27, 1870||March 16, 1961|Lakeview Cemetery|
-fam00252.html|Cronin|Adam  /Cronin/|  1993|Huron, ON|||
-fam00252.html|Cronin|Lauren  /Cronin/|  1995|Huron, ON|||
-fam00252.html|Cronin|Patrick  /Cronin/|  ||||
-fam00417.html|Crossley|Elizabeth D /Crossley/|  ||||
-fam00383.html|Cultice|Howard Edward /Cultice/|  ||||
-fam00440.html|Cultice|William H /Cultice/|October 1, 1940|Indiana, USA|March 21, 2008|Ohio, USA|
+fam00253.html|Cronin|Adam  /Cronin/|  1993|Huron, ON|||
+fam00253.html|Cronin|Lauren  /Cronin/|  1995|Huron, ON|||
+fam00253.html|Cronin|Patrick  /Cronin/|  ||||
+fam00426.html|Crossley|Elizabeth D /Crossley/|  ||||
+fam00392.html|Cultice|Howard Edward /Cultice/|  ||||
+fam00449.html|Cultice|William H /Cultice/|October 1, 1940|Indiana, USA|March 21, 2008|Ohio, USA|
 fam00158.html|Cumberland|Joseph William Morton /Cumberland/|May 28, 1872|ON|||
 fam00098.html|Cunnington|Margaret Ida /Cunnington/|November 8, 1912|Toronto, ON|December 13, 2015|Wingham Cemetery|
-fam00289.html|Currie|Laura Mabel /Currie/|November 24, 1893|Huron, ON|  1965|St Paul’s Cemetery|
+fam00290.html|Currie|Laura Mabel /Currie/|November 24, 1893|Huron, ON|  1965|St Paul’s Cemetery|
 fam00164.html|Currie|William Johnston /Currie/|January 6, 1862|Huron, ON|May 16, 1948|Wingham Cemetery|
-fam00363.html|Curry|Marie Ellen /Curry/|September 23, 1867||May 3, 1957||
-fam00340.html|Curtis|Grace Jeanette /Curtis/|July 30, 1899|Bluevale, ON|  1987|Brandon Cemetery|
+fam00372.html|Curry|Marie Ellen /Curry/|September 23, 1867||May 3, 1957||
+fam00347.html|Curtis|Grace Jeanette /Curtis/|July 30, 1899|Bluevale, ON|  1987|Brandon Cemetery|
 fam00148.html|Dadson|Bessie Allen /Dadson/|December 15, 1896|Elgin, ON|February 10, 1991|Fingal Cemetery|
-fam00319.html|Davis|Harold E /Davis/|  1914|ON|  1975|Evergreen Cemetery|
-fam00424.html|Davis|Lawrence  /Davis/|  ||||
-fam00386.html|Daw|Claire  /Daw/|  ||||
+fam00320.html|Davis|Harold E /Davis/|  1914|ON|  1975|Evergreen Cemetery|
+fam00433.html|Davis|Lawrence  /Davis/|  ||||
+fam00395.html|Daw|Claire  /Daw/|  ||||
 fam00202.html|Denbow|Emma  /Denbow/|August 20, 1871|Huron, ON|  1952|Brussels Cemetery|
-fam00325.html|Desormeaux|Peter Gerald /Desormeaux/|February 26, 1910|North Bay, ON|February 11, 1995|St. Mary’s Cemetery|
-fam00369.html|Dodds|Adel  /Dodds/|  ||||
-fam00251.html|Dodds|Earl Donald /Dodds/|  ||||
-fam00251.html|Dodds|Gregory Emerson /Dodds/|  ||||
+fam00326.html|Desormeaux|Peter Gerald /Desormeaux/|February 26, 1910|North Bay, ON|February 11, 1995|St. Mary’s Cemetery|
+fam00378.html|Dodds|Adel  /Dodds/|  ||||
+fam00252.html|Dodds|Earl Donald /Dodds/|  ||||
+fam00252.html|Dodds|Gregory Emerson /Dodds/|  ||||
 fam00044.html|Dodds|Jane  /Dodds/|December 1, 1828|Clifford, Yorkshire, England|October 16, 1902|Brandon Cemetery|
 fam00200.html|Dodds|Margaret Miller /Dodds/|September 29, 1861|Huron, ON|  1949|Maitlandbank Cemetery|
 fam00184.html|Dodds|Sarah Jane /Dodds/|August 8, 1864|Perth, ON|March 6, 1902||
 fam00070.html|Dodsworth|Ellen  /Dodsworth/|  1785|Yorkshire, England|July,  1873|England|
 fam00092.html|Douglas|Alfred Walter /Douglas/|  1914|Petrolia, ON|  1984|Hillsdale Cemetery|
-fam00369.html|Dowson|Jason  /Dowson/|  ||||
+fam00378.html|Dowson|Jason  /Dowson/|  ||||
 fam00065.html|Draffin|Ann  /Draffin/|  1786|Monaghan, Ireland|October 16, 1874|Culross Teeswater Cemetery|
-fam00288.html|Drake|Gordon Bartholemew /Drake/|  1881|ON|||
+fam00289.html|Drake|Gordon Bartholemew /Drake/|  1881|ON|||
 fam00025.html|Drope|Arthur  /Drope/|  ||||
 fam00025.html|Drope|David  /Drope/|  ||||
-fam00291.html|Drope|George Edward /Drope/|November 5, 1870|Petrolia, ON|  1947|Hillsdale Cemetery|
-fam00134.html|Drope|James  /Drope/|  ||||
+fam00292.html|Drope|George Edward /Drope/|November 5, 1870|Petrolia, ON|  1947|Hillsdale Cemetery|
 fam00025.html|Drope|James  /Drope/|  1825|Cavan, Ireland|  1865|Lambton, ON|
+fam00134.html|Drope|James  /Drope/|  ||||
 fam00135.html|Drope|John Ennis /Drope/|August 9, 1852|ON|December 16, 1937|Hillsdale Cemetery|
-fam00290.html|Drope|Martha  /Drope/|  1876|Petrolia, ON|  1933|Lakeview Cemetery|
+fam00291.html|Drope|Martha  /Drope/|  1876|Petrolia, ON|  1933|Lakeview Cemetery|
 fam00133.html|Drope|Martha Elizabeth /Drope/|May 15, 1853|ON|||
 fam00136.html|Drope|Mary Ann /Drope/|  1853|ON|||
 fam00137.html|Drope|William James /Drope/|  1846|Perth, ON|January 4, 1905|Hillsdale Cemetery|
-fam00254.html|DuToit|Claire Leone /DuToit/|  ||||
-fam00375.html|Ducharme|Jeff  /Ducharme/|  ||||
-fam00458.html|Duckworth|Florence Joanne /Duckworth/|September 8, 1932||||
-fam00294.html|Dugan|Mary Ellen /Dugan/|  ||||
-fam00293.html|Durst|Mary Edith /Durst/|July 24, 1921|Clinton, ON|January 7, 2014|Michigan, USA|
-fam00396.html|Edwards|Dorothy Ruth /Edwards/|July 27, 1936|ON|||
-fam00275.html|Elgie|Marie Humphrey /Elgie/|August 19, 1953||||
-fam00356.html|Elkington|Vera  /Elkington/|  ||||
-fam00453.html|Elliot|Mary Ann /Elliot/|January 31, 1941||||
-fam00339.html|Elliott|William John /Elliott/|August 22, 1875|ON|July 27, 1943|Makaroff Cemetery|
+fam00255.html|DuToit|Claire Leone /DuToit/|  ||||
+fam00384.html|Ducharme|Jeff  /Ducharme/|  ||||
+fam00467.html|Duckworth|Florence Joanne /Duckworth/|September 8, 1932||||
+fam00295.html|Dugan|Mary Ellen /Dugan/|  ||||
+fam00294.html|Durst|Mary Edith /Durst/|July 24, 1921|Clinton, ON|January 7, 2014|Michigan, USA|
+fam00405.html|Edwards|Dorothy Ruth /Edwards/|July 27, 1936|ON|||
+fam00276.html|Elgie|Marie Humphrey /Elgie/|August 19, 1953||||
+fam00365.html|Elkington|Vera  /Elkington/|  ||||
+fam00462.html|Elliot|Mary Ann /Elliot/|January 31, 1941||||
+fam00346.html|Elliott|William John /Elliott/|August 22, 1875|ON|July 27, 1943|Makaroff Cemetery|
 fam00135.html|Ennis|Catherine  /Ennis/|  1859|ON|  1922|Hillsdale Cemetery|
 fam00024.html|Ennis|Martha  /Ennis/|December 9, 1830|Dalhousie, Northern Ireland|February 12, 1903|Hillsdale Cemetery|
 fam00139.html|Ennis|Rebecca Euphemia /Ennis/|April 22, 1878|Lanark, ON|  1952|Hillsdale Cemetery|
-fam00273.html|Erickson|Wayne  /Erickson/|  ||||
-fam00291.html|Falconer|Janet  /Falconer/|December 30, 1875|ON|  1932|Hillsdale Cemetery|
-fam00308.html|Farrier|Carman  /Farrier/|  1915|ON|||
+fam00274.html|Erickson|Wayne  /Erickson/|  ||||
+fam00335.html|Evans|Elsie  /Evans/|  ||||
+fam00292.html|Falconer|Janet  /Falconer/|December 30, 1875|ON|  1932|Hillsdale Cemetery|
+fam00309.html|Farrier|Carman  /Farrier/|  1915|ON|||
 fam00140.html|Fitch|Arthur  /Fitch/|March 8, 1875|Huron, ON|September 14, 1963|Wroxeter Cemetery|
-fam00292.html|Fitch|Gladys Muriel /Fitch/|July 23, 1917|Huron, ON|January 18, 2003|McIntosh Cemetery|
+fam00293.html|Fitch|Gladys Muriel /Fitch/|July 23, 1917|Huron, ON|January 18, 2003|McIntosh Cemetery|
 fam00149.html|Fitch|William  /Fitch/|November  1882|England|  1934|Fingal Cemetery|
 fam00153.html|Fitton|Joseph  /Fitton/|  1887|Oldham, Lancashire, England|||
-fam00384.html|Foran|Elizabeth Jane /Foran/|January 20, 1966||||
-fam00411.html|Frank|Jean  /Frank/|December 19, 1929|Nassagaweya, ON|  2012|ON|
-fam00235.html|Fraser|Elizabeth Annie /Fraser/|  1861|ON|  1911|Blyth Union Cemetery|
-fam00439.html|Fulmer|Marguerite  /Fulmer/|October 17, 1895||March 3, 1975||
-fam00274.html|Furlotte|Caroline Ann /Furlotte/|February 1, 1947||September 27, 1986|St Peter’s Cemetery|
-fam00430.html|Garratt|Douglas  /Garratt/|  ||||
-fam00448.html|Garratt|Elma Elinor /Garratt/|  ||||
-fam00449.html|Garratt|Helen Margaret /Garratt/|  ||||
-fam00430.html|Garratt|Keith  /Garratt/|  1924|Fort William, ON|April 16, 1944|Beach Head War Cemetery, Italy|
-fam00447.html|Garratt|Lieta Avril /Garratt/|  ||||
+fam00393.html|Foran|Elizabeth Jane /Foran/|January 20, 1966||||
+fam00420.html|Frank|Jean  /Frank/|December 19, 1929|Nassagaweya, ON|  2012|ON|
+fam00236.html|Fraser|Elizabeth Annie /Fraser/|  1861|ON|  1911|Blyth Union Cemetery|
+fam00448.html|Fulmer|Marguerite  /Fulmer/|October 17, 1895||March 3, 1975||
+fam00275.html|Furlotte|Caroline Ann /Furlotte/|February 1, 1947||September 27, 1986|St Peter’s Cemetery|
+fam00439.html|Garratt|Douglas  /Garratt/|  ||||
+fam00457.html|Garratt|Elma Elinor /Garratt/|  ||||
+fam00458.html|Garratt|Helen Margaret /Garratt/|  ||||
+fam00439.html|Garratt|Keith  /Garratt/|  1924|Fort William, ON|April 16, 1944|Beach Head War Cemetery, Italy|
+fam00456.html|Garratt|Lieta Avril /Garratt/|  ||||
 fam00137.html|Gascoigne|Diana  /Gascoigne/|March 18, 1848|ON|October 20, 1929|Hillsdale Cemetery|
-fam00215.html|Gibson|William  /Gibson/|  1853|Ireland|||
-fam00390.html|Gill|Maxine  /Gill/|  ||||
-fam00230.html|Glass|Ellen  /Glass/|December 24, 1840|Ireland|October 30, 1910|Huron, ON|
-fam00387.html|Gnay|John  /Gnay/|  1937||December 22, 2005|Wingham, ON|
-fam00350.html|Godell|Olive  /Godell/|May,  1885||  1986|Maitland Cemetery|
-fam00256.html|Gok|Felicia  /Gok/|  ||||
+fam00216.html|Gibson|William  /Gibson/|  1853|Ireland|||
+fam00399.html|Gill|Maxine  /Gill/|  ||||
+fam00231.html|Glass|Ellen  /Glass/|December 24, 1840|Ireland|October 30, 1910|Huron, ON|
+fam00396.html|Gnay|John  /Gnay/|  1937||December 22, 2005|Wingham, ON|
+fam00357.html|Godell|Olive  /Godell/|May,  1885||  1986|Maitland Cemetery|
+fam00257.html|Gok|Felicia  /Gok/|  ||||
+fam00328.html|Gold|Eileen Mary /Gold/|  1922|ON|  1997|Resurrection Cemetery|
 fam00169.html|Golley|William  /Golley/|  1858|Huron, ON|||
-fam00222.html|Gooding|James  /Gooding/|  1818|Lincolnshire, England|January,  1902|Lincolnshire, England|
+fam00223.html|Gooding|James  /Gooding/|  1818|Lincolnshire, England|January,  1902|Lincolnshire, England|
 fam00063.html|Goodwin|Susanna  /Goodwin/|  |England|||
-fam00293.html|Gordon|Blake Eugene /Gordon/|June 29, 1915|Enniskillen, ON|May 23, 1992|Michigan, USA|
-fam00298.html|Gordon|Claire Laverne /Gordon/|June 10, 1919|Lambton, ON|January 24, 1999|Riverside Cemetery|
+fam00294.html|Gordon|Blake Eugene /Gordon/|June 29, 1915|Enniskillen, ON|May 23, 1992|Michigan, USA|
+fam00299.html|Gordon|Claire Laverne /Gordon/|June 10, 1919|Lambton, ON|January 24, 1999|Riverside Cemetery|
 fam00001.html|Gordon|Clarissa Diane /Gordon/|April 8, 2001|Kitchener, ON|||
-fam00301.html|Gordon|Clifford Lyle Ennis /Gordon/|April 29, 1909|Petrolia, ON|April 3, 1964|Hillsdale Cemetery|
+fam00302.html|Gordon|Clifford Lyle Ennis /Gordon/|April 29, 1909|Petrolia, ON|April 3, 1964|Hillsdale Cemetery|
 fam00039.html|Gordon|David  /Gordon/|  ||||
 fam00095.html|Gordon|Eleanor Ruth /Gordon/|June 14, 1924|Petrolia, ON|January 4, 2005|Fingal Cemetery|
-fam00299.html|Gordon|Elva Alfreda /Gordon/|September 30, 1910|Petrolia, ON|September 17, 1994|Michigan, USA|
-fam00305.html|Gordon|Ercell Beatrice /Gordon/|July 30, 1901|Tulsa, OK|July 29, 1998|Cranes Mill Cemetery|
-fam00296.html|Gordon|Geraldine  /Gordon/|May 3, 1905|Petrolia, ON|February,  1959|Newaygo Cemetery|
-fam00297.html|Gordon|Gladys Daphne /Gordon/|July 2, 1891|Petrolia, ON|May 15, 1946|Oklahoma|
+fam00300.html|Gordon|Elva Alfreda /Gordon/|September 30, 1910|Petrolia, ON|September 17, 1994|Michigan, USA|
+fam00306.html|Gordon|Ercell Beatrice /Gordon/|July 30, 1901|Tulsa, OK|July 29, 1998|Cranes Mill Cemetery|
+fam00297.html|Gordon|Geraldine  /Gordon/|May 3, 1905|Petrolia, ON|February,  1959|Newaygo Cemetery|
+fam00298.html|Gordon|Gladys Daphne /Gordon/|July 2, 1891|Petrolia, ON|May 15, 1946|Oklahoma|
 fam00078.html|Gordon|Harry  /Gordon/|  ||||
 fam00001.html|Gordon|Jefferson Carlyle /Gordon/|July 31, 1999|Kitchener, ON|||
 fam00090.html|Gordon|Jessie Jean /Gordon/|July 25, 1903|Enniskillen, ON|March 26, 1997|Hillsdale Cemetery|
 fam00024.html|Gordon|John  /Gordon/|October 1, 1831|Ireland|May 23, 1913|Hillsdale Cemetery|
 fam00139.html|Gordon|John Arthur /Gordon/|October 27, 1904|Petrolia, ON|October 31, 1904|Hillsdale Cemetery|
-fam00294.html|Gordon|John Bruce /Gordon/|August 17, 1895|Petrolia, ON|||
+fam00295.html|Gordon|John Bruce /Gordon/|August 17, 1895|Petrolia, ON|||
 fam00138.html|Gordon|John Ennis /Gordon/|February 11, 1866|Enniskillen, ON|April 20, 1947|Tulsa, OK|
 fam00078.html|Gordon|Johnathan  /Gordon/|  ||||
-fam00250.html|Gordon|Kendra  /Gordon/|  ||||
+fam00251.html|Gordon|Kendra  /Gordon/|  ||||
 fam00076.html|Gordon|Margaret Ann /Gordon/|September 27, 1977|Belgrave, ON|||
 fam00091.html|Gordon|Margaret Blanche /Gordon/|  1900|Enniskillen, ON|  1983|Hillsdale Cemetery|
-fam00303.html|Gordon|Margaret Viola /Gordon/|May 23, 1903|Petrolia, ON|November 16, 1980|Florida, USA|
-fam00300.html|Gordon|Martha Hilda /Gordon/|November 17, 1899|Petrolia, ON|April 29, 1986|Washington, USA|
-fam00383.html|Gordon|Mary Ann /Gordon/|February 27, 1920|Indiana, USA|December 4, 2003|Nevada, USA|
-fam00302.html|Gordon|Mildred  /Gordon/|January 19, 1899|Petrolia, ON|December 7, 1985|Memorial Park Cemetery|
+fam00304.html|Gordon|Margaret Viola /Gordon/|May 23, 1903|Petrolia, ON|November 16, 1980|Florida, USA|
+fam00301.html|Gordon|Martha Hilda /Gordon/|November 17, 1899|Petrolia, ON|April 29, 1986|Washington, USA|
+fam00392.html|Gordon|Mary Ann /Gordon/|February 27, 1920|Indiana, USA|December 4, 2003|Nevada, USA|
+fam00303.html|Gordon|Mildred  /Gordon/|January 19, 1899|Petrolia, ON|December 7, 1985|Memorial Park Cemetery|
 fam00207.html|Gordon|Robert  /Gordon/|April 10, 1839|Ireland|October 16, 1901|Lambton, ON|
 fam00001.html|Gordon|Robert Carlyle /Gordon/|November 13, 1967|Belgrave, ON|||
 fam00012.html|Gordon|Robert Ennis /Gordon/|April 9, 1867|Enniskillen, ON|  1963|Hillsdale Cemetery|
 fam00001.html|Gordon|Robert Frederick /Gordon/|November 16, 1996|Kitchener, ON|||
-fam00304.html|Gordon|Ruth  /Gordon/|August 16, 1904|Ohio|July 14, 2003||
-fam00306.html|Gordon|Sherman Lamoine /Gordon/|October 31, 1912|Petrolia, ON|January 21, 1983|Lakeview Cemetery|
+fam00305.html|Gordon|Ruth  /Gordon/|August 16, 1904|Ohio|July 14, 2003||
+fam00307.html|Gordon|Sherman Lamoine /Gordon/|October 31, 1912|Petrolia, ON|January 21, 1983|Lakeview Cemetery|
 fam00007.html|Gordon|Stanley David /Gordon/|Nov 30, 1897|Petrolia, ON|  1950|Hillsdale Cemetery|
 fam00139.html|Gordon|Thomas Ennis /Gordon/|May 19, 1870|Enniskillen, ON|July,  1939|Hillsdale Cemetery|
 fam00139.html|Gordon|Thomas Grant /Gordon/|January 20, 1907|Petrolia, ON|May 16, 1907|Hillsdale Cemetery|
 fam00139.html|Gordon|Wayne C /Gordon/|May 22, 1921|Petrolia, ON|January 3, 1922|Hillsdale Cemetery|
 fam00002.html|Gordon|William Robert /Gordon/|September 3, 1942|Petrolia, ON|||
-fam00306.html|Gouin|Felicity M /Gouin/|  ||||
-fam00394.html|Graham|Daisy  /Graham/|June 16, 1925||||
-fam00268.html|Grasby|Mary  /Grasby/|January 20, 1952||||
-fam00258.html|Gravett|Ashley  /Gravett/|  ||||
-fam00208.html|Gray|William Brighton /Gray/|August 9, 1838|ON|February 1, 1915|Wroxeter Cemetery|
+fam00307.html|Gouin|Felicity M /Gouin/|  ||||
+fam00403.html|Graham|Daisy  /Graham/|June 16, 1925||||
+fam00269.html|Grasby|Mary  /Grasby/|January 20, 1952||||
+fam00259.html|Gravett|Ashley  /Gravett/|  ||||
+fam00209.html|Gray|William Brighton /Gray/|August 9, 1838|ON|February 1, 1915|Wroxeter Cemetery|
 fam00091.html|Gregory|Frank Ross /Gregory/|  1897|Copleston, ON|  1975|Hillsdale Cemetery|
 fam00167.html|Grewar|Isabella Beatrice /Grewar/|March 8, 1870|Brussels, ON|  1949|Brussels Cemetery|
 fam00154.html|Grigg|George  /Grigg/|February 25, 1917|East Wawanosh, ON|  1948|Brandon Cemetery|
 fam00154.html|Grigg|James Martin /Grigg/|February 6, 1880|Huron, ON|  1947|Brandon Cemetery|
 fam00154.html|Grigg|William  /Grigg/|  1919||  1919|Brandon Cemetery|
-fam00307.html|Grigg|Wilma  /Grigg/|July 24, 1922|East Wawanosh, ON|||
+fam00308.html|Grigg|Wilma  /Grigg/|July 24, 1922|East Wawanosh, ON|||
 fam00068.html|Grimoldby|Diana  /Grimoldby/|August 31, 1760|Lincolnshire, England|||
 fam00203.html|Grimoldby|Thomas Edward /Grimoldby/|March 11, 1868|Huron, ON|January 11, 1898|ON|
-fam00263.html|Gutscher|Laura  /Gutscher/|  ||||
-fam00263.html|Gutscher|Taylor  /Gutscher/|  2016|Huron, ON|||
-fam00374.html|Hampson|Andrew  /Hampson/|  ||||
-fam00266.html|Hampson|Joe  /Hampson/|  ||||
-fam00375.html|Hampson|Johanna  /Hampson/|  ||||
-fam00444.html|Harrison|Sandra  /Harrison/|October 15, 1943|Vancouver, BC|||
+fam00264.html|Gutscher|Laura  /Gutscher/|  ||||
+fam00264.html|Gutscher|Taylor  /Gutscher/|  2016|Huron, ON|||
+fam00383.html|Hampson|Andrew  /Hampson/|  ||||
+fam00267.html|Hampson|Joe  /Hampson/|  ||||
+fam00384.html|Hampson|Johanna  /Hampson/|  ||||
+fam00453.html|Harrison|Sandra  /Harrison/|October 15, 1943|Vancouver, BC|||
 fam00130.html|Harrison|Violet Deborah Hazel /Harrison/|  1906||  1961|Maitlandbank Cemetery|
 fam00199.html|Hart|James  /Hart/|March 16, 1854|Huron, ON|July 8, 1909|Greenwood Cemetery|
 fam00027.html|Harvey|Sarah Ann /Harvey/|August 24, 1849|England|January 8, 1934|Fingal Cemetery|
 fam00061.html|Harvey|William  /Harvey/|  1820|England|||
-fam00292.html|Haskins|Ivan  /Haskins/|February 20, 1912|Huron, ON|June 22, 1997|McIntosh Cemetery|
-fam00442.html|Hatton|Blake E /Hatton/|  ||||
-fam00450.html|Hedden|Bruce  /Hedden/|May 30, 1927||||
-fam00370.html|Hedge|Tori  /Hedge/|  ||||
-fam00425.html|Helm|William  /Helm/|  ||||
-fam00333.html|Hemmerich|Hilda P /Hemmerich/|August 16, 1893|Waterloo, ON|March 30, 1953|Waterloo, ON|
-fam00349.html|Henderson|Edna Pamella /Henderson/|October 25, 1908|Morris Twp, ON|December 15, 1969|Brandon Cemetery|
+fam00293.html|Haskins|Ivan  /Haskins/|February 20, 1912|Huron, ON|June 22, 1997|McIntosh Cemetery|
+fam00451.html|Hatton|Blake E /Hatton/|  ||||
+fam00459.html|Hedden|Bruce  /Hedden/|May 30, 1927||||
+fam00379.html|Hedge|Tori  /Hedge/|  ||||
+fam00434.html|Helm|William  /Helm/|  ||||
+fam00339.html|Hemmerich|Hilda P /Hemmerich/|August 16, 1893|Waterloo, ON|March 30, 1953|Waterloo, ON|
+fam00356.html|Henderson|Edna Pamella /Henderson/|October 25, 1908|Morris Twp, ON|December 15, 1969|Brandon Cemetery|
 fam00198.html|Henderson|George  /Henderson/|June 22, 1848|ON|April 10, 1907|Maitlandbank Cemetery|
-fam00328.html|Henry|Gertrude Adeline /Henry/|March 26, 1897|Dufferin, ON|  1965|Fairview Cemetery|
+fam00330.html|Henry|Gertrude Adeline /Henry/|March 26, 1897|Dufferin, ON|  1965|Fairview Cemetery|
 fam00173.html|Hext|Florence Mary /Hext/|May 8, 1887|Petrolia, ON|  1953|Hillsdale Cemetery|
-fam00301.html|Hext|Marion  /Hext/|February 10, 1911|Petrolia, ON|January 8, 2003|Hillsdale Cemetery|
-fam00312.html|Higgins|Carrie  /Higgins/|  ||||
+fam00302.html|Hext|Marion  /Hext/|February 10, 1911|Petrolia, ON|January 8, 2003|Hillsdale Cemetery|
+fam00313.html|Higgins|Carrie  /Higgins/|  ||||
 fam00142.html|Higgins|Charles  /Higgins/|  1920||  1994|Brandon Cemetery|
-fam00309.html|Higgins|Chester Gordon /Higgins/|March 13, 1927|Morris Twp, ON|July 24, 2011|Brussels Cemetery|
-fam00309.html|Higgins|Donald Chester /Higgins/|October 3, 1961|Huron, ON|  1982|Brussels Cemetery|
+fam00310.html|Higgins|Chester Gordon /Higgins/|March 13, 1927|Morris Twp, ON|July 24, 2011|Brussels Cemetery|
+fam00310.html|Higgins|Donald Chester /Higgins/|October 3, 1961|Huron, ON|  1982|Brussels Cemetery|
 fam00142.html|Higgins|Dorothy  /Higgins/|July 2, 1915||June 8, 1994||
-fam00314.html|Higgins|Edna M /Higgins/|April 13, 1932|Belgrave, ON|||
+fam00315.html|Higgins|Edna M /Higgins/|April 13, 1932|Belgrave, ON|||
 fam00140.html|Higgins|Effie Viola /Higgins/|September 29, 1882|Huron, ON|July 25, 1974|Wroxeter Cemetery|
 fam00019.html|Higgins|Elijah  /Higgins/|February 4, 1849|Huron, Ontario|November 11, 1936|Wroxeter Cemetery|
-fam00308.html|Higgins|Ferrol  /Higgins/|  1918|ON|  1987|Brandon Cemetery|
+fam00309.html|Higgins|Ferrol  /Higgins/|  1918|ON|  1987|Brandon Cemetery|
 fam00143.html|Higgins|George Ernest /Higgins/|July 25, 1924|Morris Twp, ON|October 19, 2002|Brandon Cemetery|
-fam00384.html|Higgins|Gregory Neil /Higgins/|October 20, 1966||||
-fam00310.html|Higgins|Jack Raymond /Higgins/|September 5, 1920|Morris Twp, ON|May 29, 1997|Brandon Cemetery|
-fam00309.html|Higgins|Jeffray Wayne /Higgins/|April 23, 1964|Huron, ON|||
-fam00385.html|Higgins|Joan  /Higgins/|May 20, 1965|Huron, ON|||
+fam00393.html|Higgins|Gregory Neil /Higgins/|October 20, 1966||||
+fam00311.html|Higgins|Jack Raymond /Higgins/|September 5, 1920|Morris Twp, ON|May 29, 1997|Brandon Cemetery|
+fam00310.html|Higgins|Jeffray Wayne /Higgins/|April 23, 1964|Huron, ON|||
+fam00394.html|Higgins|Joan  /Higgins/|May 20, 1965|Huron, ON|||
 fam00141.html|Higgins|Leta Muriel /Higgins/|April 13, 1901|Huron, ON|September 3, 1977|Wingham Cemetery|
-fam00208.html|Higgins|Margaret  /Higgins/|May 12, 1839|Northern Ireland|September 12, 1917|Wroxeter Cemetery|
+fam00209.html|Higgins|Margaret  /Higgins/|May 12, 1839|Northern Ireland|September 12, 1917|Wroxeter Cemetery|
 fam00008.html|Higgins|Mary Louisa /Higgins/|December 25, 1879|Huron, ON|May 24, 1972|Brussels Cemetery|
-fam00311.html|Higgins|Mildred  /Higgins/|  ||||
+fam00312.html|Higgins|Mildred  /Higgins/|  ||||
 fam00142.html|Higgins|Nelson Archibald /Higgins/|August 14, 1889|ON|January 16, 1969|Brandon Cemetery|
 fam00142.html|Higgins|Norman  /Higgins/|  ||||
 fam00143.html|Higgins|Richard Gordon /Higgins/|January 12, 1895|Turnbury, ON|  1983|Brandon Cemetery|
 fam00143.html|Higgins|Robert Charles /Higgins/|December 11, 1939|Morris Twp, ON|||
-fam00313.html|Higgins|Ross  /Higgins/|December 19, 1933|ON|||
-fam00310.html|Higgins|Ruth  /Higgins/|February 9, 1969|Huron, ON|||
+fam00314.html|Higgins|Ross  /Higgins/|December 19, 1933|ON|||
+fam00311.html|Higgins|Ruth  /Higgins/|February 9, 1969|Huron, ON|||
+fam00208.html|Higgins|Thomas  /Higgins/|  1843|ON|April 30, 1916|Wroxeter Cemetery|
 fam00060.html|Higgins|William  /Higgins/|  1809|Ireland|July 25, 1854|Brucefield, ON|
 fam00144.html|Higgins|William Robert Mervin /Higgins/|February 19, 1887|Huron, ON|June 21, 1974|Brandon Cemetery|
-fam00408.html|Hill|Ronald Harold /Hill/|April 29, 1947|Harriston, ON|||
+fam00417.html|Hill|Ronald Harold /Hill/|April 29, 1947|Harriston, ON|||
 fam00058.html|Hoe|Jane  /Hoe/|September,  1809|Aldbrough, Yorkshire, England|August 5, 1891|Ball’s Cemetery|
-fam00353.html|Holiday|Tessie  /Holiday/|March 29, 1886|Morris Twp, ON|||
+fam00360.html|Holiday|Tessie  /Holiday/|March 29, 1886|Morris Twp, ON|||
 fam00145.html|Holland|Arthur Lorenzo /Holland/|July 17, 1878|ON|August 21, 1968|St Stephen’s Cemetery|
-fam00315.html|Holland|Clarence R /Holland/|  1922|Elgin, ON|  2004|St Stephens Cemetery|
+fam00316.html|Holland|Clarence R /Holland/|  1922|Elgin, ON|  2004|St Stephens Cemetery|
 fam00015.html|Holland|Florence Ella /Holland/|February 19, 1887|Elgin, ON|December 4, 1974|Hillsdale Cemetery|
 fam00146.html|Holland|Ida May /Holland/|July 14, 1881|Elgin, ON|September 30, 1960|Evergreen Cemetery|
 fam00026.html|Holland|Richard  /Holland/|November 18, 1847|England|March 13, 1930|St. Stephen’s Cemetery|
 fam00057.html|Holland|Thomas  /Holland/|March 26, 1818|England|April 12, 1894|Love Cemetery|
-fam00316.html|Hollyman|Dorothy Irene /Hollyman/|June 23, 1915|Clinton, ON|March 17, 2009|Hillview Cemetery|
-fam00317.html|Hollyman|Frances Mary /Hollyman/|July 9, 1930|Huron, ON|April 8, 2008|Blyth Union Cemetery|
+fam00317.html|Hollyman|Dorothy Irene /Hollyman/|June 23, 1915|Clinton, ON|March 17, 2009|Hillview Cemetery|
+fam00318.html|Hollyman|Frances Mary /Hollyman/|July 9, 1930|Huron, ON|April 8, 2008|Blyth Union Cemetery|
 fam00127.html|Hollyman|Francis John /Hollyman/|November,  1890|Cardiff, Wales|October,  1968|Blyth Union Cemetery|
 fam00085.html|Honderick|Virginia Lee /Honderick/|March 16, 1962||||
-fam00220.html|Hopper|Ellen Margaret /Hopper/|May 16, 1864|Morris Twp, ON|March 14, 1926|Brandon Cemetery|
+fam00221.html|Hopper|Ellen Margaret /Hopper/|May 16, 1864|Morris Twp, ON|March 14, 1926|Brandon Cemetery|
 fam00201.html|Horney|Mary Ann /Horney/|November 28, 1865|Huron, ON|June 28, 1939|Colborne Cemetery|
-fam00388.html|Hosbach|Clifford Earle /Hosbach/|  1928|Michigan, USA|April 5, 2011|Florida, USA|
+fam00397.html|Hosbach|Clifford Earle /Hosbach/|  1928|Michigan, USA|April 5, 2011|Florida, USA|
+fam00361.html|Howatt|James  /Howatt/|  1862||  1937|Ball’s Cemetery|
 fam00084.html|Hubbard|Susan Elizabeth /Hubbard/|May 26, 1965||||
-fam00214.html|Hull|William  /Hull/|March 5, 1858|CAN|April 30, 1930|IOOF Cemetery|
+fam00215.html|Hull|William  /Hull/|March 5, 1858|CAN|April 30, 1930|IOOF Cemetery|
 fam00104.html|Humphrey|Mary C /Humphrey/|  1927|Huron, ON|||
-fam00344.html|Imlay|Alice Margaret /Imlay/|February 11, 1901|Ethel, ON|May 31, 1996|Brandon Cemetery|
+fam00351.html|Imlay|Alice Margaret /Imlay/|February 11, 1901|Ethel, ON|May 31, 1996|Brandon Cemetery|
 fam00146.html|Jacklin|Joseph Charles Amos /Jacklin/|October 8, 1873|Blenheim, ON|May 10, 1954|Evergreen Cemetery|
-fam00319.html|Jacklin|Velma May /Jacklin/|August 18, 1909|ON|  1976|Evergreen Cemetery|
-fam00385.html|James|Murray  /James/|April 17, 1958|ON|April 5, 1989|Brussels Cemetery|
+fam00320.html|Jacklin|Velma May /Jacklin/|August 18, 1909|ON|  1976|Evergreen Cemetery|
+fam00394.html|James|Murray  /James/|April 17, 1958|ON|April 5, 1989|Brussels Cemetery|
 fam00117.html|Jewell|Melvon R /Jewell/|August 10, 1873|Goderich, ON|February 17, 1976|Colborne Cemetery|
-fam00318.html|Jewell|Richard Reginald /Jewell/|  1903|Huron, ON|  1985|Colborne Cemetery|
-fam00240.html|Jewitt|Maria  /Jewitt/|  ||||
+fam00319.html|Jewell|Reginald Burton /Jewell/|October 3, 1923|Huron, ON|April 18, 1930|Colborne Cemetery|
+fam00319.html|Jewell|Richard Reginald /Jewell/|  1903|Huron, ON|  1985|Colborne Cemetery|
+fam00241.html|Jewitt|Maria  /Jewitt/|  ||||
 fam00156.html|John|Edwin St /John/|  ||||
-fam00297.html|Johnson|Chester Allen /Johnson/|August 9, 1887|Indiana, USA|January 22, 1980|Oklahoma|
-fam00451.html|Johnson|Herbert  /Johnson/|December 28, 1916||||
-fam00426.html|Johnson|Iris  /Johnson/|  ||||
-fam00426.html|Johnson|Phyllis  /Johnson/|  ||||
-fam00426.html|Johnson|Robert James /Johnson/|  ||||
+fam00298.html|Johnson|Chester Allen /Johnson/|August 9, 1887|Indiana, USA|January 22, 1980|Oklahoma|
+fam00460.html|Johnson|Herbert  /Johnson/|December 28, 1916||||
+fam00435.html|Johnson|Iris  /Johnson/|  ||||
+fam00435.html|Johnson|Phyllis  /Johnson/|  ||||
+fam00435.html|Johnson|Robert James /Johnson/|  ||||
 fam00111.html|Johnston|Arthur MacLeod /Johnston/|December 9, 1922|Grey Twp, ON|February 19, 1951||
-fam00268.html|Johnston|George Richard MacLeod /Johnston/|March 6, 1951|Wingham, ON|||
+fam00269.html|Johnston|George Richard MacLeod /Johnston/|March 6, 1951|Wingham, ON|||
 fam00108.html|Johnston|Lois Marie /Johnston/|September 7, 1916|ON|November  1988|Wingham Cemetery|
 fam00118.html|Johnston|Mabel Alice /Johnston/|March  1885|ON|  1975|Greenwood Cemetery, Algoma|
 fam00032.html|Johnston|Mary  /Johnston/|  1865|Huron, ON|February 28, 1910|Blyth Union Cemetery|
 fam00180.html|Johnston|Sarah  /Johnston/|March 9, 1862|ON|March 16, 1935|Shelburne Cemetery|
-fam00313.html|Johnston|Wilma  /Johnston/|May 31, 1934|ON|||
+fam00314.html|Johnston|Wilma  /Johnston/|May 31, 1934|ON|||
 fam00147.html|Jones|James Franklin /Jones/|January 24, 1884|Dexter, ON|March 30, 1959|Union United Church Cemetery|
-fam00360.html|Jordon|Jennie  /Jordon/|  ||||
+fam00369.html|Jordon|Jennie  /Jordon/|  ||||
 fam00197.html|Karr|Richard  /Karr/|March,  1844|Peel , ON|August 28, 1915|Beechwood Cemetery|
-fam00457.html|Kazienko|Albina  /Kazienko/|  ||||
-fam00337.html|Kelly|Clifford  /Kelly/|  1929|Huron, ON|  1956|Brandon Cemetery|
-fam00399.html|Kelly|Dorothy Helen /Kelly/|June 9, 1952||||
-fam00395.html|Kelly|Lois Corinne /Kelly/|  ||||
-fam00396.html|Kelly|Russel McKay /Kelly/|January 25, 1925|Huron, ON|January 13, 2008|Brussels Cemetery|
-fam00337.html|Kelly|William  /Kelly/|  1886||  1972|Brandon Cemetery|
-fam00348.html|Kelsey|Harper  /Kelsey/|  ||||
-fam00373.html|Kennedy|Tracy  /Kennedy/|  ||||
-fam00347.html|Kerr|John Wesley /Kerr/|September 6, 1894|Morris Twp, ON|  1967|Brussels Cemetery|
-fam00394.html|Kerr|Stuart  /Kerr/|February 12, 1925|Morris Twp, ON|||
-fam00324.html|Kilpatrick|John Samuel /Kilpatrick/|June 6, 1903|Huron, ON|August 24, 1973|Greenhill Cemetery|
-fam00387.html|Kilpatrick|Noreen  /Kilpatrick/|  ||||
+fam00466.html|Kazienko|Albina  /Kazienko/|  ||||
+fam00344.html|Kelly|Clifford  /Kelly/|  1929|Huron, ON|  1956|Brandon Cemetery|
+fam00408.html|Kelly|Dorothy Helen /Kelly/|June 9, 1952||||
+fam00404.html|Kelly|Lois Corinne /Kelly/|  ||||
+fam00405.html|Kelly|Russel McKay /Kelly/|January 25, 1925|Huron, ON|January 13, 2008|Brussels Cemetery|
+fam00344.html|Kelly|William  /Kelly/|  1886||  1972|Brandon Cemetery|
+fam00355.html|Kelsey|Harper  /Kelsey/|  ||||
+fam00382.html|Kennedy|Tracy  /Kennedy/|  ||||
+fam00354.html|Kerr|John Wesley /Kerr/|September 6, 1894|Morris Twp, ON|  1967|Brussels Cemetery|
+fam00403.html|Kerr|Stuart  /Kerr/|February 12, 1925|Morris Twp, ON|||
+fam00325.html|Kilpatrick|John Samuel /Kilpatrick/|June 6, 1903|Huron, ON|August 24, 1973|Greenhill Cemetery|
+fam00396.html|Kilpatrick|Noreen  /Kilpatrick/|  ||||
 fam00027.html|Kimble|Alice  /Kimble/|April 24, 1882|Elgin, ON|December  1960|Fingal Cemetery|
 fam00027.html|Kimble|Ameline  /Kimble/|February 24, 1880|Elgin, ON|  1899|Fingal Cemetery|
 fam00149.html|Kimble|Annie  /Kimble/|July 21, 1887|Elgin, ON|July 6, 1967|Fingal Cemetery|
@@ -450,7 +467,7 @@ fam00096.html|Kimble|E Ruth /Kimble/|  ||||
 fam00015.html|Kimble|Effie Viola /Kimble/|September 16, 1918|ON|January 23, 1920|Fingal Cemetery|
 fam00092.html|Kimble|Fanny Bella /Kimble/|October 28, 1923|Petrolia, ON|July 19, 2013|Hillsdale Cemetery|
 fam00093.html|Kimble|Florence Alice /Kimble/|November 16, 1921|Petrolia, ON|January 17, 2017|Hillsdale Cemetery|
-fam00269.html|Kimble|Kenneth Richard /Kimble/|June 27, 1941|ON|||
+fam00270.html|Kimble|Kenneth Richard /Kimble/|June 27, 1941|ON|||
 fam00094.html|Kimble|Mary Ella /Kimble/|October 23, 1923|Petrolia, ON|||
 fam00147.html|Kimble|Minnie May /Kimble/|October 2, 1889|Elgin, ON|June 19, 1977|Union United Church Cemetery|
 fam00027.html|Kimble|Richard  /Kimble/|July 3, 1875|England|April 14, 1963|Fingal Cemetery|
@@ -459,250 +476,250 @@ fam00055.html|Kimble|Samuel  /Kimble/|  1792|Devon, England|October 15, 1845|Dev
 fam00148.html|Kimble|Samuel  /Kimble/|March 24, 1884|Elgin, ON|  1960|Fingal Cemetery|
 fam00150.html|Kimble|Sarah Jane /Kimble/|August 4, 1871|Elgin, ON|November 25, 1898|Harriston Cemetery|
 fam00007.html|Kimble|Sarah May /Kimble/|June 8, 1916|Ridgetown, ON|January 25, 2008|Hillsdale Cemetery|
-fam00270.html|Kimble|Viola Maxine /Kimble/|  1947|ON|February 21, 2011|Fairview Cemetery|
+fam00271.html|Kimble|Viola Maxine /Kimble/|  1947|ON|February 21, 2011|Fairview Cemetery|
 fam00015.html|Kimble|William  /Kimble/|November 20, 1886|Elgin, ON|November 2, 1963|Hillsdale Cemetery|
 fam00095.html|Kimble|William Richard /Kimble/|December 9, 1912|Elgin, ON|June 23, 1971|Fingal Cemetery|
-fam00381.html|King|Doris Mary /King/|September 27, 1943|Huron, ON|July 9, 2017|Brandon Cemetery|
-fam00388.html|King|Edna Mae /King/|  ||||
-fam00303.html|King|George Clayton /King/|  1902|Michigan|||
-fam00211.html|King|Stephen L /King/|October 11, 1851|England|October 28, 1926|Wroxeter Cemetery|
-fam00285.html|Kirk|Stella Pearl /Kirk/|  1893|Huron, ON|  1971|Wingham Cemetery|
-fam00441.html|Klages|Michael Dale /Klages/|June 5, 1969|Owen Sound, ON|||
-fam00412.html|Klassen|Harry  /Klassen/|  1930|Germany|  2009|ON|
-fam00236.html|Knox|Jean  /Knox/|  1867|Huron, ON|May 8, 1898|Burns Cemetery|
+fam00390.html|King|Doris Mary /King/|September 27, 1943|Huron, ON|July 9, 2017|Brandon Cemetery|
+fam00397.html|King|Edna Mae /King/|  ||||
+fam00304.html|King|George Clayton /King/|  1902|Michigan|||
+fam00212.html|King|Stephen L /King/|October 11, 1851|England|October 28, 1926|Wroxeter Cemetery|
+fam00286.html|Kirk|Stella Pearl /Kirk/|  1893|Huron, ON|  1971|Wingham Cemetery|
+fam00450.html|Klages|Michael Dale /Klages/|June 5, 1969|Owen Sound, ON|||
+fam00421.html|Klassen|Harry  /Klassen/|  1930|Germany|  2009|ON|
+fam00237.html|Knox|Jean  /Knox/|  1867|Huron, ON|May 8, 1898|Burns Cemetery|
 fam00131.html|Knox|William Dale /Knox/|  1911|Hullett, ON|  1997|Blyth Union Cemetery|
 fam00020.html|Lamont|Catherine  /Lamont/|January 1, 1843|Prince Edward Island|October 4, 1945|Wingham Cemetery|
 fam00052.html|Lamont|Jonathan  /Lamont/|  1796|Scotland|January 15, 1882|Wingham Cemetery|
-fam00420.html|Lane|Winifred Matilda /Lane/|October 2, 1914|ON|  2003|Brandon Cemetery|
-fam00445.html|Laurie|Joanne  /Laurie/|  ||||
+fam00429.html|Lane|Winifred Matilda /Lane/|October 2, 1914|ON|  2003|Brandon Cemetery|
+fam00454.html|Laurie|Joanne  /Laurie/|  ||||
 fam00183.html|Lawlor|Emeline  /Lawlor/|June 16, 1869|Huron, ON|  1944|Ball’s Cemetery|
 fam00123.html|Lawson|Luke  /Lawson/|July 14, 1869|Goderich, ON|January 20, 1943|Clinton Cemetery|
-fam00272.html|Lennan|C Wayne /Lennan/|November 15, 1942|Petrolia, ON|||
+fam00273.html|Lennan|C Wayne /Lennan/|November 15, 1942|Petrolia, ON|||
 fam00093.html|Lennan|Clifford Miller /Lennan/|July 10, 1919|Petrolia, ON|February 21, 2002|Hillsdale Cemetery|
-fam00271.html|Lennan|Donna May /Lennan/|  ||||
-fam00273.html|Lennan|Marie  /Lennan/|  ||||
-fam00393.html|Litt|Eleanor  /Litt/|January 5, 1930|ON|||
-fam00362.html|Littlefair|Ann  /Littlefair/|September  1865||May,  1936|Brandon Cemetery|
+fam00272.html|Lennan|Donna May /Lennan/|  ||||
+fam00274.html|Lennan|Marie  /Lennan/|  ||||
+fam00402.html|Litt|Eleanor  /Litt/|January 5, 1930|ON|||
+fam00371.html|Littlefair|Ann  /Littlefair/|September  1865||May,  1936|Brandon Cemetery|
 fam00125.html|Lockwood|Charles Frederick /Lockwood/|June 27, 1895|Clinton, ON|  1960|Blyth Union Cemetery|
 fam00075.html|Louie|Phyllis  /Louie/|  ||||
-fam00315.html|Lunn|Myrtle Grace /Lunn/|February 10, 1922|Wallacetown, ON|October 30, 2010|St Stephens Cemetery|
+fam00316.html|Lunn|Myrtle Grace /Lunn/|February 10, 1922|Wallacetown, ON|October 30, 2010|St Stephens Cemetery|
 fam00094.html|MacDermid|Donald M /MacDermid/|  1922||  1996|Warwick Pioneer Cemetery|
 fam00170.html|MacDonald|Colin  /MacDonald/|  1889||  1971|Blyth Union Cemetery|
 fam00171.html|Mains|Margaret Jane /Mains/|January 4, 1898|Huron, ON|  1964|Blyth Union Cemetery|
-fam00269.html|Maitland|Blanche  /Maitland/|October 7, 1939|ON|July 8, 2000|Saunder’s Cemetery|
+fam00270.html|Maitland|Blanche  /Maitland/|October 7, 1939|ON|July 8, 2000|Saunder’s Cemetery|
 fam00121.html|Maley|Henry P /Maley/|  1850|ON|||
 fam00079.html|Mali|Darius  /Mali/|  1987|Hollyrood, ON|||
-fam00257.html|Mali|Ethan  /Mali/|  ||||
+fam00258.html|Mali|Ethan  /Mali/|  ||||
 fam00079.html|Mali|Jack Louis /Mali/|  ||||
-fam00255.html|Mali|Jileesa  /Mali/|  ||||
-fam00256.html|Mali|Michael  /Mali/|  ||||
-fam00257.html|Mali|Olivia  /Mali/|  ||||
-fam00257.html|Mali|Taylor  /Mali/|August 11, 1980|Ontario|||
-fam00256.html|Mali|Xander  /Mali/|August 10, 2016|Alberta, CAN|||
+fam00256.html|Mali|Jileesa  /Mali/|  ||||
+fam00257.html|Mali|Michael  /Mali/|  ||||
+fam00258.html|Mali|Olivia  /Mali/|  ||||
+fam00258.html|Mali|Taylor  /Mali/|August 11, 1980|Ontario|||
+fam00257.html|Mali|Xander  /Mali/|August 10, 2016|Alberta, CAN|||
 fam00022.html|Marriott|Emma  /Marriott/|November 20, 1837|Yorkshire, England|January 2, 1903|Ball’s Cemetery|
 fam00188.html|Marriott|Martha  /Marriott/|  1842|England|  1902|Ball’s Cemetery|
 fam00058.html|Marriott|Thomas  /Marriott/|April 14, 1814|Preston, Yorkshire, England|May 13, 1903|Ball’s Cemetery|
 fam00172.html|Marshall|Margaret May /Marshall/|June 22, 1885|Lanark, ON|April 14, 1959|Blyth Union Cemetery|
-fam00400.html|Martin|Elizabeth Anne /Martin/|May 6, 1942|Listowel, ON|||
+fam00409.html|Martin|Elizabeth Anne /Martin/|May 6, 1942|Listowel, ON|||
 fam00193.html|Martin|William  /Martin/|  ||||
 fam00018.html|Mason|Agnes  /Mason/|  1829|Fife, Scotland|August 31, 1905|Donnybrook United Church Cemetery|
 fam00046.html|Mason|John  /Mason/|  1797|Preston Pans, Scotland|May 19, 1878|Bethel Cemetery|
 fam00078.html|Mason|Mary Anne /Mason/|  ||||
-fam00209.html|Mason|Peter  /Mason/|April 15, 1842|Scotland|December 21, 1913|ON|
-fam00389.html|Masters|Bonnie Juanita /Masters/|June 27, 1926|Detroit, MI|November 24, 2010|Washington, USA|
-fam00300.html|Masters|Clarence Job /Masters/|January 8, 1898|Michigan, USA|February 26, 1969|Florida, USA|
-fam00406.html|Mayberry|Larry Allan /Mayberry/|April 17, 1949||||
-fam00432.html|Mayne|Keitha  /Mayne/|January 5, 1900||May 16, 1976|Goderich, ON|
-fam00274.html|McBurney|Carmen Ross /McBurney/|December 10, 1946|Wingham, ON|||
+fam00210.html|Mason|Peter  /Mason/|April 15, 1842|Scotland|December 21, 1913|ON|
+fam00398.html|Masters|Bonnie Juanita /Masters/|June 27, 1926|Detroit, MI|November 24, 2010|Washington, USA|
+fam00301.html|Masters|Clarence Job /Masters/|January 8, 1898|Michigan, USA|February 26, 1969|Florida, USA|
+fam00415.html|Mayberry|Larry Allan /Mayberry/|April 17, 1949||||
+fam00441.html|Mayne|Keitha  /Mayne/|January 5, 1900||May 16, 1976|Goderich, ON|
+fam00275.html|McBurney|Carmen Ross /McBurney/|December 10, 1946|Wingham, ON|||
 fam00113.html|McBurney|Edward  /McBurney/|February 21, 1898|Huron, ON|November 29, 1952|Wingham Cemetery|
-fam00275.html|McBurney|Ivan Edward /McBurney/|December 7, 1949|Wingham, ON|||
-fam00226.html|McBurney|Jane  /McBurney/|September 13, 1851|ON|September 10, 1901|Langside Cemetery|
-fam00295.html|McCall|Georgeanna B /McCall/|January 27, 1902|Indiana, USA|May 4, 1966|Memorial Park Cemetery|
-fam00317.html|McClinchey|Robert Donald /McClinchey/|January 19, 1926|Huron, ON|June 30, 2017|Blyth Union Cemetery|
-fam00279.html|McCorick|David  /McCorick/|October 11, 1957||||
+fam00276.html|McBurney|Ivan Edward /McBurney/|December 7, 1949|Wingham, ON|||
+fam00227.html|McBurney|Jane  /McBurney/|September 13, 1851|ON|September 10, 1901|Langside Cemetery|
+fam00296.html|McCall|Georgeanna B /McCall/|January 27, 1902|Indiana, USA|May 4, 1966|Memorial Park Cemetery|
+fam00318.html|McClinchey|Robert Donald /McClinchey/|January 19, 1926|Huron, ON|June 30, 2017|Blyth Union Cemetery|
+fam00280.html|McCorick|David  /McCorick/|October 11, 1957||||
 fam00050.html|McCorkindale|Mary  /McCorkindale/|  ||||
-fam00311.html|McDonald|Lloyd  /McDonald/|  1933|Teeswater, ON|February 22, 2018|Parkview Cemetery|
-fam00250.html|McDougall|Brian  /McDougall/|  ||||
-fam00250.html|McDougall|Charlotte  /McDougall/|  ||||
-fam00250.html|McDougall|Marley  /McDougall/|  ||||
-fam00253.html|McDowell|Caroline  /McDowell/|  1995|Huron, ON|||
+fam00312.html|McDonald|Lloyd  /McDonald/|  1933|Teeswater, ON|February 22, 2018|Parkview Cemetery|
+fam00251.html|McDougall|Brian  /McDougall/|  ||||
+fam00251.html|McDougall|Charlotte  /McDougall/|  ||||
+fam00251.html|McDougall|Marley  /McDougall/|  ||||
+fam00254.html|McDowell|Caroline  /McDowell/|  1995|Huron, ON|||
 fam00077.html|McDowell|Gerald  /McDowell/|  ||||
-fam00370.html|McDowell|Johnathan  /McDowell/|  1990|Huron, ON|||
-fam00251.html|McDowell|Kimberly Lynn /McDowell/|  ||||
-fam00371.html|McDowell|Michael  /McDowell/|  ||||
-fam00254.html|McDowell|Michelle Leanne /McDowell/|December 6, 1983||||
-fam00254.html|McDowell|Paige  /McDowell/|  1989||||
-fam00252.html|McDowell|Patricia Marie /McDowell/|  ||||
-fam00253.html|McDowell|Ronald John /McDowell/|  ||||
-fam00254.html|McDowell|Wayne Gerald /McDowell/|  ||||
+fam00379.html|McDowell|Johnathan  /McDowell/|  1990|Huron, ON|||
+fam00252.html|McDowell|Kimberly Lynn /McDowell/|  ||||
+fam00380.html|McDowell|Michael  /McDowell/|  ||||
+fam00255.html|McDowell|Michelle Leanne /McDowell/|December 6, 1983||||
+fam00255.html|McDowell|Paige  /McDowell/|  1989||||
+fam00253.html|McDowell|Patricia Marie /McDowell/|  ||||
+fam00254.html|McDowell|Ronald John /McDowell/|  ||||
+fam00255.html|McDowell|Wayne Gerald /McDowell/|  ||||
 fam00038.html|McFarlane|Christina  /McFarlane/|  1804|Dunbartonshire, Scotland|August 4, 1880|Lambton, ON|
 fam00066.html|McFarlane|Janet  /McFarlane/|  1766|Dunbartonshire, Scotland|||
-fam00320.html|McGee|Marlene Louise /McGee/|February 18, 1956||||
+fam00321.html|McGee|Marlene Louise /McGee/|February 18, 1956||||
 fam00159.html|McGill|Elizabeth  /McGill/|August 20, 1867|East Wawanosh, ON|||
-fam00332.html|McGrath|Ella May /McGrath/|  1892|ON|||
-fam00436.html|McGuire|William  /McGuire/|  ||||
-fam00224.html|McKenzie|Margaret  /McKenzie/|  ||||
-fam00401.html|McLean|Audrey  /McLean/|  ||||
+fam00337.html|McGrath|Ella May /McGrath/|  1892|ON|||
+fam00445.html|McGuire|William  /McGuire/|  ||||
+fam00225.html|McKenzie|Margaret  /McKenzie/|  ||||
+fam00410.html|McLean|Audrey  /McLean/|  ||||
 fam00195.html|McLellan|James  /McLellan/|  ||||
 fam00189.html|McLeod|Alexander  /McLeod/|November 12, 1841|Scotland|||
-fam00339.html|McLeod|Barbara Jane /McLeod/|September 27, 1877|ON|February 27, 1962|Makaroff Cemetery|
+fam00346.html|McLeod|Barbara Jane /McLeod/|September 27, 1877|ON|February 27, 1962|Makaroff Cemetery|
 fam00052.html|McLeod|Euphemia  /McLeod/|  1814|Scotland|October 21, 1891|Wingham Cemetery|
-fam00338.html|McLeod|Margaret  /McLeod/|May 7, 1874|ON|||
-fam00312.html|McLeod|Rod  /McLeod/|  ||||
+fam00345.html|McLeod|Margaret  /McLeod/|May 7, 1874|ON|||
+fam00313.html|McLeod|Rod  /McLeod/|  ||||
 fam00036.html|McMichael|Archibald  /McMichael/|April 5, 1833|Cavan, Ireland|August 9, 1902|Wroxeter Cemetery|
 fam00019.html|McMichael|Frances  /McMichael/|February 29, 1860|Cavan, Ireland|December 2, 1932|Wroxeter Cemetery|
-fam00211.html|McMichael|Mary  /McMichael/|June 17, 1862|Cavan, Ireland|October 1, 1886|Wroxeter Cemetery|
-fam00210.html|McMichael|Robert  /McMichael/|January 17, 1863|Huron, ON|December 2, 1953|Wroxeter Cemetery|
-fam00219.html|McMurray|Margaret Ann /McMurray/|January 22, 1876|Morris Twp, ON|September 11, 1939|Brandon Cemetery|
-fam00245.html|McNeil|Frances  /McNeil/|January,  1854|Michigan, USA|January 10, 1928|Mt Joy Cemetery|
-fam00241.html|McRae|James  /McRae/|  ||||
-fam00241.html|McRae|Robert J /McRae/|  1875||  1948|Brandon Cemetery|
-fam00214.html|McVittie|Isabella M /McVittie/|June 12, 1867|Huron, ON|January 17, 1946|IOOF Cemetery|
+fam00212.html|McMichael|Mary  /McMichael/|June 17, 1862|Cavan, Ireland|October 1, 1886|Wroxeter Cemetery|
+fam00211.html|McMichael|Robert  /McMichael/|January 17, 1863|Huron, ON|December 2, 1953|Wroxeter Cemetery|
+fam00220.html|McMurray|Margaret Ann /McMurray/|January 22, 1876|Morris Twp, ON|September 11, 1939|Brandon Cemetery|
+fam00246.html|McNeil|Frances  /McNeil/|January,  1854|Michigan, USA|January 10, 1928|Mt Joy Cemetery|
+fam00242.html|McRae|James  /McRae/|  ||||
+fam00242.html|McRae|Robert J /McRae/|  1875||  1948|Brandon Cemetery|
+fam00215.html|McVittie|Isabella M /McVittie/|June 12, 1867|Huron, ON|January 17, 1946|IOOF Cemetery|
+fam00213.html|McVittie|James  /McVittie/|May,  1871|Huron, ON|September 27, 1923|Yelm Public Cemetery|
 fam00043.html|McVittie|James  /McVittie/|August  1837|Lanark, ON|August 13, 1907|Yelm Public Cemetery|
-fam00212.html|McVittie|James  /McVittie/|May,  1871|Huron, ON|September 27, 1923|Yelm Public Cemetery|
 fam00030.html|McVittie|Margaret Alice /McVittie/|  ||||
 fam00045.html|McVittie|Mary Ann /McVittie/|  1804|Cavan, Ireland|February 16, 1880|Burns United Cemetery|
-fam00215.html|McVittie|Mary Ann /McVittie/|June 21, 1864|Huron, ON|||
-fam00213.html|McVittie|Matilda  /McVittie/|August 26, 1876|Huron, ON|February 25, 1961|Sumner Cemetery|
+fam00216.html|McVittie|Mary Ann /McVittie/|June 21, 1864|Huron, ON|||
+fam00214.html|McVittie|Matilda  /McVittie/|August 26, 1876|Huron, ON|February 25, 1961|Sumner Cemetery|
 fam00067.html|McVittie|Simon  /McVittie/|  1809|Cavan, Ireland|November 5, 1888|Londesboro Cemetery|
-fam00227.html|McWilliams|Katie  /McWilliams/|  1858|ON|  1948|BC|
+fam00228.html|McWilliams|Katie  /McWilliams/|  1858|ON|  1948|BC|
 fam00124.html|Medd|Stephen  /Medd/|September 5, 1861|Huron, ON|May 12, 1913||
 fam00074.html|Merkley|Billy George /Merkley/|September 23, 2009||||
 fam00074.html|Merkley|Brian  /Merkley/|July 23, 1972|Bruce County, ON|||
 fam00074.html|Merkley|Sadie Diane /Merkley/|April 22, 2008||||
-fam00391.html|Michie|Barbara Jean /Michie/|January 27, 1922|ON|||
+fam00400.html|Michie|Barbara Jean /Michie/|January 27, 1922|ON|||
 fam00051.html|Middleton|Mary Anne /Middleton/|  |England|||
 fam00176.html|Miller|William Walter /Miller/|July 10, 1881|Sarnia, ON|November 13, 1930|Lakeview Cemetery|
 fam00036.html|Montgomery|Frances  /Montgomery/|July 17, 1837|Cavan, Ireland|November 30, 1919|Wroxeter Cemetery|
 fam00054.html|Moore|Sarah Jane /Moore/|November 12, 1827|Northern Ireland|April 23, 1913|Blyth Union Cemetery|
-fam00395.html|Morgan|Joseph  /Morgan/|  ||||
+fam00404.html|Morgan|Joseph  /Morgan/|  ||||
 fam00152.html|Morrison|Adelaide  /Morrison/|  ||||
 fam00023.html|Morrison|James Brown /Morrison/|December 20, 1838|Ireland|July 26, 1919|Langside/Tiffins Cemetery|
 fam00152.html|Morrison|John Victor /Morrison/|February 13, 1874|Huron, ON|August 2, 1943|Los Angeles, USA|
 fam00151.html|Morrison|Mabel A /Morrison/|April 15, 1891|Huron, ON|  1946|Greenhill Cemetery|
 fam00014.html|Morrison|Teresa Ann /Morrison/|January 29, 1876|Bruce, ON|November 11, 1942|Wingham Cemetery|
-fam00431.html|Morrow|?  /Morrow/|  ||||
+fam00440.html|Morrow|?  /Morrow/|  ||||
 fam00151.html|Mowbray|Alexander  /Mowbray/|August 25, 1890|Bruce, ON|  1994|Greenhill Cemetery|
 fam00128.html|Muscutt|Carrie K /Muscutt/|  1911|Washington, USA|  1975||
-fam00414.html|Mustard|Isabel H /Mustard/|  1919|ON|  1997|Brussels Cemetery|
-fam00327.html|Myers|Charlotte Helena /Myers/|December 14, 1885|ON|  1971|Shelburne Cemetery|
-fam00249.html|Newcombe|Susan  /Newcombe/|March,  1825|Armagh, Ireland|  1921|Brandon Cemetery|
+fam00423.html|Mustard|Isabel H /Mustard/|  1919|ON|  1997|Brussels Cemetery|
+fam00329.html|Myers|Charlotte Helena /Myers/|December 14, 1885|ON|  1971|Shelburne Cemetery|
+fam00250.html|Newcombe|Susan  /Newcombe/|March,  1825|Armagh, Ireland|  1921|Brandon Cemetery|
 fam00192.html|Newman|John  /Newman/|  ||||
-fam00322.html|Nichol|Mary Bell /Nichol/|December 6, 1889|Huron, ON|  1976||
-fam00218.html|Nicholson|Agnes  /Nicholson/|  1852||September 6, 1913|Brandon Cemetery|
-fam00282.html|Nivins|Alice  /Nivins/|September 11, 1962||||
-fam00310.html|Norman|Bernice  /Norman/|July 15, 1923|East Wawanosh, ON|December 4, 2009|Brandon Cemetery|
-fam00331.html|OReilly|Leslie  /OReilly/|March 30, 1889|ON|||
-fam00389.html|Offrink|Frederick James /Offrink/|  ||||
-fam00289.html|Ogden|William Hilton /Ogden/|June 20, 1896|Biddulph, ON|April 24, 1944|St Paul’s Cemetery|
+fam00323.html|Nichol|Mary Bell /Nichol/|December 6, 1889|Huron, ON|  1976||
+fam00219.html|Nicholson|Agnes  /Nicholson/|  1852||September 6, 1913|Brandon Cemetery|
+fam00283.html|Nivins|Alice  /Nivins/|September 11, 1962||||
+fam00311.html|Norman|Bernice  /Norman/|July 15, 1923|East Wawanosh, ON|December 4, 2009|Brandon Cemetery|
+fam00336.html|OReilly|Leslie  /OReilly/|March 30, 1889|ON|||
+fam00398.html|Offrink|Frederick James /Offrink/|  ||||
+fam00290.html|Ogden|William Hilton /Ogden/|June 20, 1896|Biddulph, ON|April 24, 1944|St Paul’s Cemetery|
 fam00153.html|Osbaldiston|Clarissa  /Osbaldiston/|  1886|Marple, Cheshire, England|March  1967|Oldham, Lancashire, England|
 fam00010.html|Osbaldiston|Jane Elizabeth /Osbaldiston/|February 12, 1888|Stockport, UK|August 13, 1972|Blyth Union Cemetery|
 fam00056.html|Osbaldiston|Samuel  /Osbaldiston/|  1829|Cheshire, England|||
 fam00034.html|Osbaldiston|William  /Osbaldiston/|  1859|Marple, Cheshire, England|April 1, 1922|Greenacres Cemetery, England|
-fam00299.html|Page|Clarence  /Page/|October 7, 1898|Huron, ON|April 13, 1972|Michigan, USA|
-fam00390.html|Page|Robert L /Page/|March 2, 1935|Detroit, USA|June 3, 2008|White Chapel Memorial Park Cemetery|
+fam00300.html|Page|Clarence  /Page/|October 7, 1898|Huron, ON|April 13, 1972|Michigan, USA|
+fam00399.html|Page|Robert L /Page/|March 2, 1935|Detroit, USA|June 3, 2008|White Chapel Memorial Park Cemetery|
 fam00053.html|Paris|Mary Jennet /Paris/|December 15, 1814|Scotland|March 23, 1899|Alcona, Michigan|
 fam00204.html|Parker|George E /Parker/|March 11, 1868|Huron, ON|May 2, 1951|Greenwood Cemtery|
 fam00032.html|Parks|William John /Parks/|  1867|Huron, ON|December 24, 1946|Blyth Union Cemetery|
 fam00109.html|Parr|Berva Jane /Parr/|October 22, 1913|Huron, ON|  1987|Brussels Cemetery|
-fam00284.html|Patterson|Ernest William /Patterson/|July 7, 1893|Hullett, ON|||
+fam00285.html|Patterson|Ernest William /Patterson/|July 7, 1893|Hullett, ON|||
 fam00129.html|Patterson|Nelson H /Patterson/|  1901||  1986|Ball’s Cemetery|
-fam00321.html|Pearson|Nancy Louise /Pearson/|May 31, 1953||||
+fam00322.html|Pearson|Nancy Louise /Pearson/|May 31, 1953||||
 fam00177.html|Petrie|Archimeads  /Petrie/|March 12, 1873|Little Falls, New York, USA|July 27, 1940|Oak Hill Cemetery|
 fam00048.html|Pettypiece|Margaret  /Pettypiece/|  1831|Carleton, ON|February 18, 1887|Dungannon Cemetery|
-fam00421.html|Pickell|James Wilfred /Pickell/|March 25, 1918|ON|October 13, 2001|Brandon Cemetery|
+fam00430.html|Pickell|James Wilfred /Pickell/|March 25, 1918|ON|October 13, 2001|Brandon Cemetery|
 fam00145.html|Piper|Annie Victoria /Piper/|May 24, 1889|Delaware, ON|May 12, 1948|St Stephen’s Cemetery|
-fam00302.html|Pitcher|Edgar Roy /Pitcher/|January 5, 1896|Ohio, USA|May 13, 1977|Memorial Park Cemetery|
-fam00314.html|Pletch|Thomas William /Pletch/|January 4, 1932|Culross, ON|June 13, 2010|Brussels Cemetery|
-fam00454.html|Potter|David Ewing /Potter/|February 16, 1934||||
+fam00303.html|Pitcher|Edgar Roy /Pitcher/|January 5, 1896|Ohio, USA|May 13, 1977|Memorial Park Cemetery|
+fam00315.html|Pletch|Thomas William /Pletch/|January 4, 1932|Culross, ON|June 13, 2010|Brussels Cemetery|
+fam00463.html|Potter|David Ewing /Potter/|February 16, 1934||||
 fam00162.html|Prentice|James Albert /Prentice/|September 21, 1858|ON|March 17, 1932|Trinity United Cemetery|
 fam00087.html|Price|George Eric /Price/|  ||  1984|British Columbia|
-fam00382.html|Priestap|Lundy L /Priestap/|  ||||
-fam00247.html|Procter|Abraham  /Procter/|  1821|Kirkby Overblow, Yorkshire, England|July 26, 1903|Brandon Cemetery|
-fam00216.html|Procter|Abram  /Procter/|August 12, 1866|Morris Twp, ON|July 18, 1952|Brandon Cemetery|
-fam00340.html|Procter|Abram Harold /Procter/|April 7, 1902|Morris Twp, ON|  1977|Brandon Cemetery|
+fam00391.html|Priestap|Lundy L /Priestap/|  ||||
+fam00248.html|Procter|Abraham  /Procter/|  1821|Kirkby Overblow, Yorkshire, England|July 26, 1903|Brandon Cemetery|
+fam00217.html|Procter|Abram  /Procter/|August 12, 1866|Morris Twp, ON|July 18, 1952|Brandon Cemetery|
+fam00347.html|Procter|Abram Harold /Procter/|April 7, 1902|Morris Twp, ON|  1977|Brandon Cemetery|
 fam00037.html|Procter|Charles  /Procter/|  1822|Kirkby Overblow, Yorkshire, England|December 2, 1899|Brandon Cemetery|
-fam00342.html|Procter|Charles  /Procter/|  |Morris Twp, ON|||
-fam00397.html|Procter|Charles Gordon /Procter/|October 2, 1923|Morris Twp, ON|||
-fam00345.html|Procter|Charles Keith /Procter/|  1929|Morris Twp|  1929|Brandon Cemetery|
-fam00248.html|Procter|Charlie  /Procter/|  ||||
-fam00320.html|Procter|Donald George /Procter/|November 25, 1943|Wingham, ON|||
+fam00349.html|Procter|Charles  /Procter/|  |Morris Twp, ON|||
+fam00406.html|Procter|Charles Gordon /Procter/|October 2, 1923|Morris Twp, ON|||
+fam00352.html|Procter|Charles Keith /Procter/|  1929|Morris Twp|  1929|Brandon Cemetery|
+fam00249.html|Procter|Charlie  /Procter/|  ||||
+fam00321.html|Procter|Donald George /Procter/|November 25, 1943|Wingham, ON|||
 fam00021.html|Procter|Edith  /Procter/|March 31, 1892|Huron, ON|April 28, 1958|Brandon Cemetery|
-fam00248.html|Procter|Eliza  /Procter/|  1864|Kirkby Overblow, Yorkshire, England|  1952|Brandon Cemetery|
-fam00064.html|Procter|Elizabeth  /Procter/|April 1, 1828|Kirkby Overblow, Yorkshire, England|||
+fam00249.html|Procter|Eliza  /Procter/|  1864|Kirkby Overblow, Yorkshire, England|  1952|Brandon Cemetery|
 fam00072.html|Procter|Elizabeth  /Procter/|April 15, 1781|Kirkby, Overblow, Yorkshire, England|||
-fam00343.html|Procter|Elizabeth Waddington /Procter/|  1884||  1931||
+fam00064.html|Procter|Elizabeth  /Procter/|April 1, 1828|Kirkby Overblow, Yorkshire, England|||
+fam00350.html|Procter|Elizabeth Waddington /Procter/|  1884||  1931||
 fam00072.html|Procter|Ellenor  /Procter/|April 19, 1791|Kirkby, Overblow, Yorkshire, England|October 8, 1795||
 fam00143.html|Procter|Florence Alline /Procter/|February 25, 1899|Morris Twp|  1979|Brandon Cemetery|
-fam00399.html|Procter|Frank Richard Charles /Procter/|October 21, 1950||||
+fam00408.html|Procter|Frank Richard Charles /Procter/|October 21, 1950||||
 fam00064.html|Procter|George  /Procter/|  1785|Kirkby Overblow, Yorkshire, England|January  1868|Kirkby Overblow, Yorkshire, England|
-fam00400.html|Procter|George Abram /Procter/|June 3, 1937|Wingham, ON|||
+fam00409.html|Procter|George Abram /Procter/|June 3, 1937|Wingham, ON|||
 fam00021.html|Procter|George Waddington /Procter/|December 23, 1855|Esquesing, ON|October 21, 1927|Brandon Cemetery|
-fam00401.html|Procter|Grant Melvin /Procter/|March 14, 1917||  1991|Maitland Cemetery|
-fam00403.html|Procter|Hilda Grace /Procter/|October 25, 1921||||
-fam00217.html|Procter|James  /Procter/|August 22, 1853|Esquesing, ON|June 4, 1895|Brandon Cemetery|
-fam00248.html|Procter|James  /Procter/|April 1, 1828|Kirkby Overblow, Yorkshire, England|||
-fam00345.html|Procter|James Carl /Procter/|June 19, 1896|Morris Twp|  1970|Brandon Cemetery|
-fam00344.html|Procter|James Stewart /Procter/|March 13, 1898|Morris Twp, ON|October 10, 1972|Brandon Cemetery|
+fam00410.html|Procter|Grant Melvin /Procter/|March 14, 1917||  1991|Maitland Cemetery|
+fam00412.html|Procter|Hilda Grace /Procter/|October 25, 1921||||
+fam00218.html|Procter|James  /Procter/|August 22, 1853|Esquesing, ON|June 4, 1895|Brandon Cemetery|
+fam00249.html|Procter|James  /Procter/|April 1, 1828|Kirkby Overblow, Yorkshire, England|||
+fam00352.html|Procter|James Carl /Procter/|June 19, 1896|Morris Twp|  1970|Brandon Cemetery|
+fam00351.html|Procter|James Stewart /Procter/|March 13, 1898|Morris Twp, ON|October 10, 1972|Brandon Cemetery|
 fam00154.html|Procter|Jane  /Procter/|June 15, 1885|Morris Twp|September 16, 1933|Brandon Cemetery|
-fam00346.html|Procter|John  /Procter/|May 30, 1880|Morris Twp, ON|September 25, 1951|Red Deer, Alberta|
-fam00346.html|Procter|John  /Procter/|  ||||
-fam00218.html|Procter|John  /Procter/|March 25, 1851|ON|  1898|Brandon Cemetery|
-fam00408.html|Procter|Joyce Marie /Procter/|November 28, 1946||||
-fam00441.html|Procter|Katherine Jane /Procter/|February 19, 1969|Wingham, ON|||
-fam00217.html|Procter|Louise  /Procter/|  ||||
+fam00353.html|Procter|John  /Procter/|May 30, 1880|Morris Twp, ON|September 25, 1951|Red Deer, Alberta|
+fam00219.html|Procter|John  /Procter/|March 25, 1851|ON|  1898|Brandon Cemetery|
+fam00353.html|Procter|John  /Procter/|  ||||
+fam00417.html|Procter|Joyce Marie /Procter/|November 28, 1946||||
+fam00450.html|Procter|Katherine Jane /Procter/|February 19, 1969|Wingham, ON|||
+fam00218.html|Procter|Louise  /Procter/|  ||||
 fam00011.html|Procter|Mabel  /Procter/|August 27, 1887|Huron, ON|February 5, 1952|Brandon Cemetery|
-fam00347.html|Procter|Margaret Ann /Procter/|October 2, 1899|Morris Twp, ON|  1980|Brussels Cemetery|
-fam00402.html|Procter|Margaret Maxine /Procter/|February 21, 1957||||
-fam00404.html|Procter|Margaret Verda /Procter/|November 18, 1932|Wingham, ON|  2008|Brandon Cemetery|
-fam00407.html|Procter|Marjorie Ann /Procter/|May 4, 1954||||
+fam00354.html|Procter|Margaret Ann /Procter/|October 2, 1899|Morris Twp, ON|  1980|Brussels Cemetery|
+fam00411.html|Procter|Margaret Maxine /Procter/|February 21, 1957||||
+fam00413.html|Procter|Margaret Verda /Procter/|November 18, 1932|Wingham, ON|  2008|Brandon Cemetery|
+fam00416.html|Procter|Marjorie Ann /Procter/|May 4, 1954||||
 fam00072.html|Procter|Mary  /Procter/|April 9, 1776|Kirkby, Overblow, Yorkshire, England|||
-fam00348.html|Procter|Mary Ann /Procter/|  ||June  1931|Clifford, ON|
-fam00220.html|Procter|Mary Ellen /Procter/|April 12, 1889|Morris Twp|December 3, 1889|Brandon Cemetery|
-fam00398.html|Procter|Mary Verda /Procter/|June 27, 1930|Morris Twp, ON|||
-fam00352.html|Procter|Mary Verda /Procter/|December 27, 1906|Morris Twp, ON|February 24, 1963|Brandon Cemetery|
-fam00341.html|Procter|Maud  /Procter/|March 11, 1885||September 1, 1975|Union Cemetery, Calgary|
-fam00217.html|Procter|Mina  /Procter/|  ||||
-fam00346.html|Procter|Muriel  /Procter/|  ||||
-fam00321.html|Procter|Murray  /Procter/|June 21, 1946|Wingham, ON|||
-fam00357.html|Procter|Pearl Ann /Procter/|August 5, 1884||May 3, 1978|Brandon Cemetery|
+fam00355.html|Procter|Mary Ann /Procter/|  ||June  1931|Clifford, ON|
+fam00221.html|Procter|Mary Ellen /Procter/|April 12, 1889|Morris Twp|December 3, 1889|Brandon Cemetery|
+fam00407.html|Procter|Mary Verda /Procter/|June 27, 1930|Morris Twp, ON|||
+fam00359.html|Procter|Mary Verda /Procter/|December 27, 1906|Morris Twp, ON|February 24, 1963|Brandon Cemetery|
+fam00348.html|Procter|Maud  /Procter/|March 11, 1885||September 1, 1975|Union Cemetery, Calgary|
+fam00218.html|Procter|Mina  /Procter/|  ||||
+fam00353.html|Procter|Muriel  /Procter/|  ||||
+fam00322.html|Procter|Murray  /Procter/|June 21, 1946|Wingham, ON|||
+fam00366.html|Procter|Pearl Ann /Procter/|August 5, 1884||May 3, 1978|Brandon Cemetery|
 fam00064.html|Procter|Richard  /Procter/|October 25, 1816|Kirkby Overblow, Yorkshire, England|||
-fam00219.html|Procter|Richard  /Procter/|April 15, 1862|Morris Twp, ON|December 25, 1927|Brandon Cemetery|
-fam00350.html|Procter|Richard Clayton /Procter/|August 8, 1891|Morris Twp, ON|  1971|Maitland Cemetery|
-fam00349.html|Procter|Richard William /Procter/|February 20, 1907|Morris Twp, ON|October,  1963|Brandon Cemetery|
-fam00351.html|Procter|Robert Charles /Procter/|May 13, 1911|Morris Twp, ON|June 12, 1977|Brandon Cemetery|
-fam00409.html|Procter|Ross Stewart /Procter/|August 29, 1927|Morris Twp, ON|||
-fam00405.html|Procter|Ruth Marie /Procter/|April 17, 1939|Wingham, ON|||
-fam00406.html|Procter|Sandra Elizabeth /Procter/|June 18, 1952||December 19, 2001|Blyth Union Cemetery|
+fam00220.html|Procter|Richard  /Procter/|April 15, 1862|Morris Twp, ON|December 25, 1927|Brandon Cemetery|
+fam00357.html|Procter|Richard Clayton /Procter/|August 8, 1891|Morris Twp, ON|  1971|Maitland Cemetery|
+fam00356.html|Procter|Richard William /Procter/|February 20, 1907|Morris Twp, ON|October,  1963|Brandon Cemetery|
+fam00358.html|Procter|Robert Charles /Procter/|May 13, 1911|Morris Twp, ON|June 12, 1977|Brandon Cemetery|
+fam00418.html|Procter|Ross Stewart /Procter/|August 29, 1927|Morris Twp, ON|||
+fam00414.html|Procter|Ruth Marie /Procter/|April 17, 1939|Wingham, ON|||
+fam00415.html|Procter|Sandra Elizabeth /Procter/|June 18, 1952||December 19, 2001|Blyth Union Cemetery|
 fam00072.html|Procter|Sarah  /Procter/|March 22, 1789|Kirkby, Overblow, Yorkshire, England|||
-fam00340.html|Procter|Shirley Marie /Procter/|September 25, 1930|Wingham, ON|September 25, 1930|Wingham, ON|
+fam00347.html|Procter|Shirley Marie /Procter/|September 25, 1930|Wingham, ON|September 25, 1930|Wingham, ON|
 fam00064.html|Procter|Thomas  /Procter/|May 30, 1819|Kirkby Overblow, Yorkshire, England|||
 fam00072.html|Procter|Thomas  /Procter/|  ||||
 fam00072.html|Procter|Thomas  /Procter/|May 24, 1779|Kirkby, Overblow, Yorkshire, England|||
-fam00361.html|Procter|Unknown  /Procter/|  ||||
+fam00370.html|Procter|Unknown  /Procter/|  ||||
 fam00155.html|Procter|Wilbert Raymond /Procter/|August 24, 1906|Morris Twp|July 25, 1968|Brandon Cemetery|
-fam00064.html|Procter|William  /Procter/|December 25, 1813|Kirkby Overblow, Yorkshire, England|July 4, 1892|Brandon Cemetery|
 fam00072.html|Procter|William  /Procter/|September 14, 1777|Kirkby, Overblow, Yorkshire, England|||
-fam00220.html|Procter|William Charles /Procter/|August 12, 1857|Morris Twp, ON|October 20, 1926|Brandon Cemetery|
-fam00353.html|Procter|William Gardnar /Procter/|August 22, 1885|Morris Twp, ON|May 24, 1952|Yorkton, SK|
-fam00220.html|Procter|William Waddington /Procter/|April 29, 1887|Morris Twp|  1888|Morris Twp|
+fam00064.html|Procter|William  /Procter/|December 25, 1813|Kirkby Overblow, Yorkshire, England|July 4, 1892|Brandon Cemetery|
+fam00221.html|Procter|William Charles /Procter/|August 12, 1857|Morris Twp, ON|October 20, 1926|Brandon Cemetery|
+fam00360.html|Procter|William Gardnar /Procter/|August 22, 1885|Morris Twp, ON|May 24, 1952|Yorkton, SK|
+fam00221.html|Procter|William Waddington /Procter/|April 29, 1887|Morris Twp|  1888|Morris Twp|
 fam00097.html|Purdon|Jean I /Purdon/|August 19, 1916|Huron, ON|March 11, 1998|Wingham Cemetery|
 fam00059.html|Rafton|Charlotte  /Rafton/|March 17, 1807|Yorkshire, England|June 22, 1877|Yorkshire, England|
-fam00234.html|Reid|Alexander  /Reid/|November 8, 1851|Scotland|  1933|Burns Cemetery|
-fam00279.html|Rezansoff|Gale Louise /Rezansoff/|June 27, 1957||||
-fam00280.html|Rezansoff|Heidi Lynn /Rezansoff/|July 7, 1958||||
+fam00235.html|Reid|Alexander  /Reid/|November 8, 1851|Scotland|  1933|Burns Cemetery|
+fam00280.html|Rezansoff|Gale Louise /Rezansoff/|June 27, 1957||||
+fam00281.html|Rezansoff|Heidi Lynn /Rezansoff/|July 7, 1958||||
 fam00114.html|Rezansoff|Mike  /Rezansoff/|  1915||  1979|Brussels Cemetery|
-fam00290.html|Richmond|Albert  /Richmond/|  1874|Lambton, ON|  1933|Lakeview Cemetery|
-fam00459.html|Richtmyer|Ruth  /Richtmyer/|July 4, 1926||||
-fam00270.html|Riemens|Robert  /Riemens/|  ||||
-fam00366.html|Rife|Rebecca  /Rife/|  ||||
-fam00379.html|Riley|Carole  /Riley/|  ||||
+fam00291.html|Richmond|Albert  /Richmond/|  1874|Lambton, ON|  1933|Lakeview Cemetery|
+fam00468.html|Richtmyer|Ruth  /Richtmyer/|July 4, 1926||||
+fam00271.html|Riemens|Robert  /Riemens/|  ||||
+fam00375.html|Rife|Rebecca  /Rife/|  ||||
+fam00388.html|Riley|Carole  /Riley/|  ||||
 fam00205.html|Riley|William  /Riley/|August 19, 1849|ON|February 26, 1926|Brussels Cemetery|
-fam00378.html|Robar|Ryan  /Robar/|  ||||
-fam00343.html|Robertson|Duncan Cameron /Robertson/|  ||||
-fam00343.html|Robertson|Harper  /Robertson/|  ||||
+fam00387.html|Robar|Ryan  /Robar/|  ||||
+fam00350.html|Robertson|Duncan Cameron /Robertson/|  ||||
+fam00350.html|Robertson|Harper  /Robertson/|  ||||
 fam00160.html|Robinson|Agnes  /Robinson/|  1864|Huron, ON|July 14, 1936|Wingham Cemetery|
-fam00324.html|Robinson|Annie Elizabeth /Robinson/|June 12, 1901|Huron, ON|March 25, 1989|Greenhill Cemetery|
+fam00325.html|Robinson|Annie Elizabeth /Robinson/|June 12, 1901|Huron, ON|March 25, 1989|Greenhill Cemetery|
 fam00018.html|Robinson|Charles  /Robinson/|  ||||
 fam00098.html|Robinson|Charlie  /Robinson/|November 26, 1903|Huron, ON|October  1985|Wingham Cemetery|
 fam00103.html|Robinson|David Ross /Robinson/|  1914|Huron, ON|November 10, 1986|Ball's Cemetery|
@@ -710,178 +727,184 @@ fam00006.html|Robinson|Dora Margaret /Robinson/|  1918|Huron, ON|February 17, 20
 fam00099.html|Robinson|E George /Robinson/|  1908|Huron, ON|  1992|Wingham Cemetery|
 fam00018.html|Robinson|Edward  /Robinson/|  1824|Linconshire, England|April 23, 1898|Donnybrook United Church Cemetery|
 fam00018.html|Robinson|Edward  /Robinson/|March 7, 1861|Huron, ON|||
-fam00322.html|Robinson|Edward Campbell /Robinson/|January 19, 1886|Huron, ON|December 27, 1966|Minneapolis, USA|
-fam00276.html|Robinson|Elaine  /Robinson/|  ||||
+fam00323.html|Robinson|Edward Campbell /Robinson/|January 19, 1886|Huron, ON|December 27, 1966|Minneapolis, USA|
+fam00277.html|Robinson|Elaine  /Robinson/|  ||||
 fam00119.html|Robinson|Elizabeth  /Robinson/|  1869|ON|  1899|Ball’s Cemetery|
 fam00100.html|Robinson|Elva Maud /Robinson/|March 7, 1900|Huron, ON|May 23, 1983|Dungannon Cemetery|
-fam00277.html|Robinson|Garry  /Robinson/|  ||||
-fam00323.html|Robinson|Harold  /Robinson/|May 6, 1895|Huron, ON|May 8, 1983|Walkerton Cemetery|
+fam00278.html|Robinson|Garry  /Robinson/|  ||||
+fam00324.html|Robinson|Harold  /Robinson/|May 6, 1895|Huron, ON|May 8, 1983|Walkerton Cemetery|
 fam00158.html|Robinson|Helen Ellen /Robinson/|  1873|East Wawanosh, ON|  1939|Manitou, Manitoba|
 fam00013.html|Robinson|JJ Clayton /Robinson/|  1906||April 17, 1929|Wingham Cemetery|
-fam00221.html|Robinson|James  /Robinson/|March 20, 1830|Lincolnshire, England|November 6, 1913|Donnybrook United Cemetery|
 fam00018.html|Robinson|James  /Robinson/|  ||||
-fam00223.html|Robinson|Jane  /Robinson/|  1834|Lincolnshire, England|January,  1912|Lincolnshire, England|
+fam00222.html|Robinson|James  /Robinson/|March 20, 1830|Lincolnshire, England|November 6, 1913|Donnybrook United Cemetery|
+fam00224.html|Robinson|Jane  /Robinson/|  1834|Lincolnshire, England|January,  1912|Lincolnshire, England|
 fam00157.html|Robinson|John  /Robinson/|April 4, 1859|Huron, ON|||
-fam00278.html|Robinson|Joyce  /Robinson/|  ||||
+fam00279.html|Robinson|Joyce  /Robinson/|  ||||
 fam00104.html|Robinson|Leonard Roy /Robinson/|August 31, 1921|Huron, ON|March 6, 1991|Wingham Cemetery|
-fam00222.html|Robinson|Mary  /Robinson/|  1827|Lincolnshire, England|March 9, 1902|Lincolnshire, England|
+fam00223.html|Robinson|Mary  /Robinson/|  1827|Lincolnshire, England|March 9, 1902|Lincolnshire, England|
 fam00156.html|Robinson|Mary Jane /Robinson/|May 24, 1865|Huron, ON|||
 fam00102.html|Robinson|Mason  /Robinson/|October 8, 1915|Huron, ON|October 15, 2000|Wingham Cemetery|
 fam00159.html|Robinson|Peter  /Robinson/|May  1867|East Wawanosh, ON|||
 fam00097.html|Robinson|Ray  /Robinson/|  1954|Huron, ON|October 28, 2013|Wingham Cemetery|
 fam00101.html|Robinson|Ruth  /Robinson/|  1925|Huron, ON|||
-fam00376.html|Robinson|Sandee  /Robinson/|July 14, 1967|London, ON|September 5, 2009|Elma Centre Cemetery|
-fam00413.html|Robinson|Shirley Jean /Robinson/|February 10, 1937|Eramosa, ON|April 25, 2012|Georgetown, ON|
+fam00385.html|Robinson|Sandee  /Robinson/|July 14, 1967|London, ON|September 5, 2009|Elma Centre Cemetery|
+fam00422.html|Robinson|Shirley Jean /Robinson/|February 10, 1937|Eramosa, ON|April 25, 2012|Georgetown, ON|
 fam00018.html|Robinson|Susan  /Robinson/|  ||||
 fam00068.html|Robinson|Thomas  /Robinson/|  1760|England|||
 fam00013.html|Robinson|Thomas  /Robinson/|October 30, 1871|Huron, ON|May 28, 1955|Wingham Cemetery|
 fam00013.html|Robinson|Thomas Franklin /Robinson/|January 29, 1898||September 23, 1911|Wingham Cemetery|
-fam00161.html|Robinson|William  /Robinson/|February 20, 1858|Huron, ON|February 23, 1947|Wingham Cemetery|
 fam00063.html|Robinson|William  /Robinson/|  1785|Tetney, Lincolnshire, England|November  1852|Binbrook, Lincolnshire, England|
+fam00161.html|Robinson|William  /Robinson/|February 20, 1858|Huron, ON|February 23, 1947|Wingham Cemetery|
 fam00097.html|Robinson|William Calvin /Robinson/|March 2, 1911|Huron, ON|September 28, 1986|Wingham Cemetery|
 fam00168.html|Roe|Martha Lovina /Roe/|  1872|Huron, ON|  1945|Wingham Cemetery|
 fam00061.html|Rogers|Mary  /Rogers/|  1822|England|||
 fam00031.html|Rowley|James  /Rowley/|  ||||
-fam00437.html|Sager|Charles  /Sager/|November 4, 1889||January 8, 1982||
-fam00452.html|Sager|Eleanor Claire /Sager/|March 25, 1931||||
-fam00450.html|Sager|Geraldine Wilson /Sager/|December 28, 1927||||
-fam00451.html|Sager|Jean Evelyn /Sager/|April 4, 1926||August 4, 1993|Massachusetts National Cemetery|
-fam00232.html|Sanderson|Sarah  /Sanderson/|  1870|Huron, ON|  1956|Blyth Union Cemetery|
+fam00446.html|Sager|Charles  /Sager/|November 4, 1889||January 8, 1982||
+fam00461.html|Sager|Eleanor Claire /Sager/|March 25, 1931||||
+fam00459.html|Sager|Geraldine Wilson /Sager/|December 28, 1927||||
+fam00460.html|Sager|Jean Evelyn /Sager/|April 4, 1926||August 4, 1993|Massachusetts National Cemetery|
+fam00233.html|Sanderson|Sarah  /Sanderson/|  1870|Huron, ON|  1956|Blyth Union Cemetery|
+fam00362.html|Sarles|Margaret N /Sarles/|  1886|Huron, ON|  1894|Ball’s Cemetery|
+fam00361.html|Sarles|Patience Emma /Sarles/|  1870|Huron, ON|  1914|Ball’s Cemetery|
 fam00185.html|Sarles|Simeon  /Sarles/|  1838|Uxbridge, ON|September 12, 1918|Ball’s Cemetery|
-fam00355.html|Scandrett|Mary Edna /Scandrett/|  1886||August 28, 1929|Brandon Cemetery|
+fam00185.html|Sarles|Violet  /Sarles/|  1887|Huron, ON|  1920|Ball’s Cemetery|
+fam00185.html|Sarles|William  /Sarles/|  1877|Huron, ON|  1881|Ball’s Cemetery|
+fam00364.html|Scandrett|Mary Edna /Scandrett/|  1886||August 28, 1929|Brandon Cemetery|
 fam00035.html|Scarlett|Isabella  /Scarlett/|  1807|Ireland|May 30, 1882|Langside Cemetery|
-fam00392.html|Shaw|Leslie  /Shaw/|October 1, 1930|ON|||
-fam00281.html|Shortreed|Joan Isabelle /Shortreed/|October 25, 1939|Huron, ON|September 11, 2010|Brussels Cemetery|
+fam00401.html|Shaw|Leslie  /Shaw/|October 1, 1930|ON|||
+fam00334.html|Short|John Henry /Short/|  ||||
+fam00282.html|Shortreed|Joan Isabelle /Shortreed/|October 25, 1939|Huron, ON|September 11, 2010|Brussels Cemetery|
 fam00110.html|Shortreed|William James /Shortreed/|September 13, 1909|Goderich, ON|May 7, 1983|Brussels Cemetery|
 fam00105.html|Showers|Charles W /Showers/|  1897||  1963|Wingham Cemetery|
 fam00138.html|Smith|Clara  /Smith/|February 19, 1870|Petrolia, ON|July 17, 1961|Tulsa, OK|
 fam00116.html|Smith|George Alexander /Smith/|September 10, 1881|Deseronto, ON|||
-fam00325.html|Smith|Myrtle Helena /Smith/|July 2, 1912|North Bay, ON|August 17, 2004|St. Mary’s Cemetery|
-fam00410.html|Smits|Harold Johannes Hemricus /Smits/|November 25, 1933|Netherlands|||
-fam00225.html|Snyder|James  /Snyder/|April 26, 1843|ON|January 5, 1913|Langside Cemetery|
-fam00440.html|Snyder|Patricia  /Snyder/|  ||||
-fam00329.html|Somerville|George Rae /Somerville/|April 23, 1892|Esquesing, ON|December 30, 1956|Fairview Cemetery|
-fam00411.html|Somerville|James Fyfe /Somerville/|May 1, 1927|Esquesing, ON|April 23, 1972|ON|
-fam00412.html|Somerville|Margaret Pearl /Somerville/|October 9, 1925|Esquesing, ON|July 23, 1972|ON|
-fam00413.html|Somerville|William  /Somerville/|  ||||
-fam00351.html|Speakman|Ivy Elizabeth Hilda /Speakman/|February 25, 1918||||
-fam00455.html|Speirs|David  /Speirs/|  ||||
-fam00404.html|Spivey|John William /Spivey/|February 12, 1927|Grey, ON|December 3, 2012|Brandon Cemetery|
+fam00326.html|Smith|Myrtle Helena /Smith/|July 2, 1912|North Bay, ON|August 17, 2004|St. Mary’s Cemetery|
+fam00419.html|Smits|Harold Johannes Hemricus /Smits/|November 25, 1933|Netherlands|||
+fam00226.html|Snyder|James  /Snyder/|April 26, 1843|ON|January 5, 1913|Langside Cemetery|
+fam00449.html|Snyder|Patricia  /Snyder/|  ||||
+fam00331.html|Somerville|George Rae /Somerville/|April 23, 1892|Esquesing, ON|December 30, 1956|Fairview Cemetery|
+fam00420.html|Somerville|James Fyfe /Somerville/|May 1, 1927|Esquesing, ON|April 23, 1972|ON|
+fam00421.html|Somerville|Margaret Pearl /Somerville/|October 9, 1925|Esquesing, ON|July 23, 1972|ON|
+fam00422.html|Somerville|William  /Somerville/|  ||||
+fam00358.html|Speakman|Ivy Elizabeth Hilda /Speakman/|February 25, 1918||||
+fam00464.html|Speirs|David  /Speirs/|  ||||
+fam00413.html|Spivey|John William /Spivey/|February 12, 1927|Grey, ON|December 3, 2012|Brandon Cemetery|
 fam00190.html|Sproal|Charles  /Sproal/|  1833|Ireland|June 10, 1900|Culross Teeswater Cemetery|
-fam00296.html|Spruell|Bryan J /Spruell/|September 5, 1894|Illinois, USA|February 3, 1979|Newaygo Cemetery|
-fam00446.html|StLouis|Jill  /StLouis/|  ||||
+fam00297.html|Spruell|Bryan J /Spruell/|September 5, 1894|Illinois, USA|February 3, 1979|Newaygo Cemetery|
+fam00455.html|StLouis|Jill  /StLouis/|  ||||
 fam00155.html|Stapleton|Dorothy Hazel /Stapleton/|April 23, 1913|Huron, ON|January 6, 1987|Brandon Cemetery|
-fam00209.html|Stein|Mary Jane /Stein/|August 4, 1855|ON|July 23, 1914|ON|
+fam00210.html|Stein|Mary Jane /Stein/|August 4, 1855|ON|July 23, 1914|ON|
 fam00194.html|Stephenson|GB  /Stephenson/|March 4, 1836|Dorchester, ON|  1908|Beechwood Cemetery|
 fam00055.html|Stevens|Jane  /Stevens/|January 1, 1800|Devon, England|June 8, 1878|London, England|
-fam00259.html|Stewart|Allana  /Stewart/|  ||||
+fam00260.html|Stewart|Allana  /Stewart/|  ||||
 fam00099.html|Stewart|Annie Islay /Stewart/|  1907|Huron, ON|  1968|Wingham Cemetery|
-fam00259.html|Stewart|Bree  /Stewart/|  ||||
+fam00260.html|Stewart|Bree  /Stewart/|  ||||
 fam00082.html|Stewart|Donald  /Stewart/|December 17, 1955||||
-fam00316.html|Stewart|Douglas  /Stewart/|  ||||
-fam00456.html|Stewart|Errol  /Stewart/|June 8, 1940||||
-fam00258.html|Stewart|Kirk  /Stewart/|October 24, 1985|Blyth, ON|||
-fam00216.html|Stewart|Mary Ann /Stewart/|October 23, 1868|Bluevale, ON|July 11, 1953|Brandon Cemetery|
-fam00259.html|Stewart|Tyler  /Stewart/|  ||||
-fam00364.html|Stinson|Sadie  /Stinson/|  ||||
+fam00317.html|Stewart|Douglas  /Stewart/|  ||||
+fam00465.html|Stewart|Errol  /Stewart/|June 8, 1940||||
+fam00259.html|Stewart|Kirk  /Stewart/|October 24, 1985|Blyth, ON|||
+fam00217.html|Stewart|Mary Ann /Stewart/|October 23, 1868|Bluevale, ON|July 11, 1953|Brandon Cemetery|
+fam00260.html|Stewart|Tyler  /Stewart/|  ||||
+fam00373.html|Stinson|Sadie  /Stinson/|  ||||
 fam00112.html|Stokes|Alberta J /Stokes/|August 6, 1921|Belmore, ON|March 27, 1982|Brandon Cemetery|
-fam00243.html|Stonehouse|Ellen  /Stonehouse/|  ||||
-fam00407.html|Stopforth|Phillip  /Stopforth/|  ||||
+fam00244.html|Stonehouse|Ellen  /Stonehouse/|  ||||
+fam00416.html|Stopforth|Phillip  /Stopforth/|  ||||
 fam00049.html|Storey|Margaret Ann /Storey/|January 8, 1834|Ireland|February 23, 1924|Brussels Cemetery|
-fam00371.html|Stout|Kaitlyn  /Stout/|  ||||
-fam00210.html|Strong|Annie Elizabeth /Strong/|February 25, 1866|Huron, ON|July 9, 1962|Wroxeter Cemetery|
-fam00376.html|Subject|Calvin  /Subject/|October 28, 1966|ON|March 4, 2015|Elma Centre Cemetery|
-fam00213.html|Sumpter|Joseph Henry /Sumpter/|  1867|Missouri, USA|April 30, 1946|Sumner Cemetery|
-fam00403.html|Sutherland|John Murray /Sutherland/|  ||||
-fam00342.html|Swidlehurst|Susan  /Swidlehurst/|  ||||
+fam00380.html|Stout|Kaitlyn  /Stout/|  ||||
+fam00211.html|Strong|Annie Elizabeth /Strong/|February 25, 1866|Huron, ON|July 9, 1962|Wroxeter Cemetery|
+fam00385.html|Subject|Calvin  /Subject/|October 28, 1966|ON|March 4, 2015|Elma Centre Cemetery|
+fam00214.html|Sumpter|Joseph Henry /Sumpter/|  1867|Missouri, USA|April 30, 1946|Sumner Cemetery|
+fam00412.html|Sutherland|John Murray /Sutherland/|  ||||
+fam00349.html|Swidlehurst|Susan  /Swidlehurst/|  ||||
 fam00016.html|Taman|Anne Jane /Taman/|August 7, 1867|Carleton, ON|June 22, 1926|Blyth Union Cemetery|
 fam00040.html|Taman|Henry  /Taman/|January 8, 1830|Ottawa, ON|May 26, 1915||
-fam00229.html|Taman|John  /Taman/|May 10, 1864|ON|  1946|Cochrane, ON|
+fam00230.html|Taman|John  /Taman/|May 10, 1864|ON|  1946|Cochrane, ON|
+fam00225.html|Taylor|Alexander  /Taylor/|  ||||
 fam00035.html|Taylor|Alexander  /Taylor/|  1799|Connaught, Ireland|September 2, 1876|Langside Cemetery|
-fam00224.html|Taylor|Alexander  /Taylor/|  ||||
-fam00354.html|Taylor|Andrew  /Taylor/|  ||||
+fam00363.html|Taylor|Andrew  /Taylor/|  ||||
 fam00014.html|Taylor|Charles C /Taylor/|January 15, 1898|ON|  1922||
 fam00079.html|Taylor|Doreen Margaret /Taylor/|February 1, 1959||||
-fam00225.html|Taylor|Eliza Jane /Taylor/|June 27, 1852|Marlborough, ON|August 2, 1920|Langside Cemetery|
+fam00226.html|Taylor|Eliza Jane /Taylor/|June 27, 1852|Marlborough, ON|August 2, 1920|Langside Cemetery|
 fam00020.html|Taylor|George  /Taylor/|  1837|Ontario|December 5, 1918|Wingham Cemetery|
 fam00106.html|Taylor|George Morisson /Taylor/|October 18, 1905|Huron, ON|March 27, 1985|Wingham Cemetery|
 fam00105.html|Taylor|Irene Mabel /Taylor/|July 5, 1908|Huron County|August 30, 1997|Wingham Cemetery|
 fam00164.html|Taylor|Isabella  /Taylor/|February 24, 1867|ON|  1944|Wingham Cemetery|
-fam00226.html|Taylor|James  /Taylor/|May 3, 1847|ON|December 1, 1921|Langside Cemetery|
+fam00227.html|Taylor|James  /Taylor/|May 3, 1847|ON|December 1, 1921|Langside Cemetery|
 fam00080.html|Taylor|Jim  /Taylor/|  ||||
 fam00163.html|Taylor|John  /Taylor/|October 2, 1864|ON|||
 fam00014.html|Taylor|John Melvin /Taylor/|July 27, 1902|ON|October 5, 1970|Wingham Cemetery|
 fam00081.html|Taylor|Joyce  /Taylor/|  ||||
 fam00006.html|Taylor|Lawrence Carlyle /Taylor/|April 6, 1910|Belgrave, ON|March 27, 1993|Wingham Cemetery|
+fam00208.html|Taylor|Margaret  /Taylor/|  1852|ON|April 13, 1934|Wroxeter Cemetery|
 fam00006.html|Taylor|Mary Louise /Taylor/|  1941|Belgrave, ON|  1968|Wingham Cemetery|
 fam00162.html|Taylor|Rachel Catherine /Taylor/|September 23, 1872|ON|March 20, 1911|Trinity United Cemetery|
-fam00227.html|Taylor|Robert  /Taylor/|  1853|ON|  1904|ON|
+fam00228.html|Taylor|Robert  /Taylor/|  1853|ON|  1904|ON|
 fam00002.html|Taylor|Ruth Ann /Taylor/|June 2, 1943|Belgrave, ON|||
 fam00020.html|Taylor|Sarah  /Taylor/|  ||||
-fam00263.html|Taylor|Sherry  /Taylor/|  ||||
+fam00264.html|Taylor|Sherry  /Taylor/|  ||||
 fam00014.html|Taylor|Thomas  /Taylor/|March 27, 1866|Huron, ON|April 9, 1936|Wingham Cemetery|
 fam00014.html|Taylor|Thomas Wilmor /Taylor/|July 19, 1899|ON|July 13, 1975|ON|
-fam00262.html|Taylor|Trisha  /Taylor/|  ||||
+fam00263.html|Taylor|Trisha  /Taylor/|  ||||
 fam00014.html|Taylor|Verna May /Taylor/|December 26, 1896|ON|November 7, 1914|Wingham Cemetery|
-fam00228.html|Taylor|William  /Taylor/|January 19, 1849|Marlboro, ON|February 2, 1927|Langside Cemetery|
-fam00271.html|Teskey|Neil  /Teskey/|  ||||
-fam00398.html|Thomas|Charles  /Thomas/|  ||||
-fam00261.html|Thompson|Danielle  /Thompson/|  ||||
+fam00229.html|Taylor|William  /Taylor/|January 19, 1849|Marlboro, ON|February 2, 1927|Langside Cemetery|
+fam00272.html|Teskey|Neil  /Teskey/|  ||||
+fam00407.html|Thomas|Charles  /Thomas/|  ||||
+fam00262.html|Thompson|Danielle  /Thompson/|  ||||
 fam00041.html|Thompson|Elizabeth  /Thompson/|  1831|Sandy, Oakney, Scotland|September 3, 1871|Blyth Union Cemetery|
-fam00260.html|Thompson|Hayden  /Thompson/|  ||||
+fam00261.html|Thompson|Hayden  /Thompson/|  ||||
 fam00081.html|Thompson|John  /Thompson/|  ||||
 fam00100.html|Thompson|Joseph Clarke /Thompson/|March 13, 1900|St. Augustine, ON|October 4, 1994|Dungannon Cemetery|
-fam00260.html|Thompson|Kaleb  /Thompson/|  ||||
-fam00260.html|Thompson|Layne Dennis /Thompson/|March 7, 2018|Huron, ON|||
-fam00260.html|Thompson|Michelle Lynn /Thompson/|May,  1981|Huron, ON|||
-fam00286.html|Thornton|Mary Pearl /Thornton/|  1886|Huron, ON|  1938|Edmonton, AB|
+fam00261.html|Thompson|Kaleb  /Thompson/|  ||||
+fam00261.html|Thompson|Layne Dennis /Thompson/|March 7, 2018|Huron, ON|||
+fam00261.html|Thompson|Michelle Lynn /Thompson/|May,  1981|Huron, ON|||
+fam00287.html|Thornton|Mary Pearl /Thornton/|  1886|Huron, ON|  1938|Edmonton, AB|
 fam00040.html|Tomlinson|Mary  /Tomlinson/|  1835|Canada|February 5, 1899||
 fam00060.html|Totten|Frances  /Totten/|  1805|Ireland|June 16, 1881|Turnberry, ON|
-fam00304.html|Towers|Leo Harold /Towers/|  ||||
-fam00438.html|Travis|Ernest  /Travis/|  ||||
-fam00438.html|Travis|Marian  /Travis/|  ||||
-fam00438.html|Travis|Merle  /Travis/|  ||||
-fam00438.html|Travis|Robert  /Travis/|  ||||
-fam00438.html|Travis|Thomas  /Travis/|  ||||
-fam00418.html|Turner|Albert C /Turner/|  ||||
+fam00305.html|Towers|Leo Harold /Towers/|  ||||
+fam00447.html|Travis|Ernest  /Travis/|  ||||
+fam00447.html|Travis|Marian  /Travis/|  ||||
+fam00447.html|Travis|Merle  /Travis/|  ||||
+fam00447.html|Travis|Robert  /Travis/|  ||||
+fam00447.html|Travis|Thomas  /Travis/|  ||||
+fam00427.html|Turner|Albert C /Turner/|  ||||
 fam00034.html|Turner|Sarah  /Turner/|  1858|Mellor, Derbyshire, England|October 26, 1935|Greenacres Cemetery, England|
-fam00253.html|Unknown|Alice  /Unknown/|  ||||
+fam00254.html|Unknown|Alice  /Unknown/|  ||||
 fam00080.html|Unknown|Doris  /Unknown/|  ||||
 fam00071.html|Unknown|Dorothy  /Unknown/|  1780|Yorkshire, England|  1819|England|
-fam00248.html|Unknown|Eliza  /Unknown/|  ||||
+fam00249.html|Unknown|Eliza  /Unknown/|  ||||
 fam00072.html|Unknown|Elizabeth  /Unknown/|  ||||
+fam00436.html|Unknown|Unknown  /Unknown/|  ||||
 fam00073.html|Unknown|Unknown  /Unknown/|  ||||
-fam00361.html|Unknown|Unknown  /Unknown/|  ||||
-fam00435.html|Unknown|Unknown  /Unknown/|  ||||
-fam00427.html|Unknown|Unknown  /Unknown/|  ||||
-fam00449.html|VanStaeeren|Peter  /VanStaeeren/|  ||||
+fam00444.html|Unknown|Unknown  /Unknown/|  ||||
+fam00370.html|Unknown|Unknown  /Unknown/|  ||||
+fam00458.html|VanStaeeren|Peter  /VanStaeeren/|  ||||
 fam00115.html|Vanstone|Edgar Sylvester /Vanstone/|June 8, 1881|ON|  1945|Colborne Cemetery|
 fam00115.html|Vanstone|Helen Winnifred /Vanstone/|February 10, 1908|Nipissing, ON|||
 fam00182.html|Verslegers|Ellen M /Verslegers/|May 29, 1867|Belgium|December 29 ,1949|Westminster Memorial Park Cemetery|
-fam00280.html|Vesely|Nicholas  /Vesely/|March 3, 1953||||
-fam00460.html|Vuong|Sav  /Vuong/|  ||||
+fam00281.html|Vesely|Nicholas  /Vesely/|March 3, 1953||||
+fam00469.html|Vuong|Sav  /Vuong/|  ||||
 fam00037.html|Waddington|Elizabeth Ann /Waddington/|  1825|Sicklingham, Yorkshire, England|July 16, 1902|Brandon Cemetery|
 fam00141.html|Walker|Gordon Oliver /Walker/|August 23, 1900|Huron, ON|September 21, 1994|Wingham Cemetery|
 fam00046.html|Wallace|Agnes  /Wallace/|  1799|Scotland|||
-fam00334.html|Wallace|Thomas  /Wallace/|  1874|ON|  1951|Shelburne Cemetery|
-fam00264.html|Walls|Canada  /Walls/|  ||||
-fam00414.html|Walsh|Cameron M /Walsh/|  1921|Huron, ON|  1997|Brussels Cemetery|
-fam00416.html|Walsh|Mary Irene /Walsh/|November 21, 1915|Huron, ON|December 17, 1990|Avondale Cemetery|
-fam00367.html|Walsh|Mary Jane /Walsh/|July 22, 1861|Huron, ON|June 10, 1933|Brandon Cemetery|
-fam00415.html|Walsh|N Harold /Walsh/|  1914|ON|September 26, 1986|Blyth Union Cemetery|
-fam00336.html|Walsh|Norman E /Walsh/|July 25, 1884|ON|October 20, 1952|Blyth Union Cemetery|
+fam00340.html|Wallace|Thomas  /Wallace/|  1874|ON|  1951|Shelburne Cemetery|
+fam00265.html|Walls|Canada  /Walls/|  ||||
+fam00423.html|Walsh|Cameron M /Walsh/|  1921|Huron, ON|  1997|Brussels Cemetery|
+fam00425.html|Walsh|Mary Irene /Walsh/|November 21, 1915|Huron, ON|December 17, 1990|Avondale Cemetery|
+fam00376.html|Walsh|Mary Jane /Walsh/|July 22, 1861|Huron, ON|June 10, 1933|Brandon Cemetery|
+fam00424.html|Walsh|N Harold /Walsh/|  1914|ON|September 26, 1986|Blyth Union Cemetery|
+fam00343.html|Walsh|Norman E /Walsh/|July 25, 1884|ON|October 20, 1952|Blyth Union Cemetery|
 fam00165.html|Warwick|Andrew McCorkindale /Warwick/|March 26, 1878|Huron, ON|August 16, 1960|Maple Ridge Cemetery|
-fam00264.html|Warwick|Chloe  /Warwick/|  ||||
+fam00265.html|Warwick|Chloe  /Warwick/|  ||||
 fam00083.html|Warwick|Douglas James /Warwick/|March 5, 1946|Blyth, ON|||
 fam00008.html|Warwick|George King /Warwick/|March 7, 1876|Huron, ON|January 31, 1942|Brussels Cemetery|
 fam00110.html|Warwick|Isabelle Aileen /Warwick/|November 21, 1916|Morris Twp, ON|September 30, 2007|Brussels Cemetery|
 fam00029.html|Warwick|James Alexander /Warwick/|  1874|Huron, ON|February 23, 1896|Bluevale Cemetery|
 fam00005.html|Warwick|James Kenneth /Warwick/|May 27, 1920|Huron, ON|April 30, 1981|Blyth Union Cemetery|
-fam00264.html|Warwick|Jason  /Warwick/|  ||||
+fam00265.html|Warwick|Jason  /Warwick/|  ||||
 fam00050.html|Warwick|John  /Warwick/|  ||||
 fam00167.html|Warwick|John Duncan /Warwick/|April 15, 1865|ON|  1941|Brussels Cemetery|
-fam00326.html|Warwick|John Grewar /Warwick/|January 24, 1901|Huron, ON|January 9, 1958|Calvary Cemetery|
-fam00264.html|Warwick|Jordan  /Warwick/|  ||||
+fam00327.html|Warwick|John Grewar /Warwick/|January 24, 1901|Huron, ON|January 9, 1958|Calvary Cemetery|
+fam00265.html|Warwick|Jordan  /Warwick/|  ||||
 fam00084.html|Warwick|Kevin Blane /Warwick/|October 5, 1962|Blyth, ON|||
 fam00082.html|Warwick|Linda Marie /Warwick/|November 19, 1956|Blyth, ON|||
 fam00107.html|Warwick|Lloyd Allen /Warwick/|January 31, 1924|Huron, ON|  2002|Brussels Cemetery|
@@ -891,149 +914,151 @@ fam00029.html|Warwick|Robert  /Warwick/|November 24, 1829|Scotland|December 20, 
 fam00108.html|Warwick|Robert Arnold /Warwick/|January 2, 1911|Morris Twp, ON|July 24, 1974|Wingham Cemetery|
 fam00168.html|Warwick|Robert B /Warwick/|  1871|Huron, ON|  1948|Wingham Cemetery|
 fam00003.html|Warwick|Ruth Dianne /Warwick/|January 16, 1949|Blyth, ON|||
-fam00230.html|Warwick|Thomas  /Warwick/|April 9, 1826|Dumfriesshire, Scotland|January 26, 1913|Huron, ON|
+fam00231.html|Warwick|Thomas  /Warwick/|April 9, 1826|Dumfriesshire, Scotland|January 26, 1913|Huron, ON|
 fam00109.html|Warwick|Wilfred John /Warwick/|August 22, 1912|Huron, ON|October 26, 1988|Brussels Cemetery|
 fam00166.html|Warwick|Winnifred  /Warwick/|March 17, 1869|Morris, ON|  1938|Wingham Cemetery|
-fam00231.html|Watson|David  /Watson/|November 14, 1860|Huron, ON|July 26, 1937|Blyth Union Cemetery|
-fam00261.html|Watson|Finn  /Watson/|  ||||
-fam00261.html|Watson|Harper  /Watson/|  ||||
-fam00261.html|Watson|Jansen  /Watson/|  ||||
+fam00232.html|Watson|David  /Watson/|November 14, 1860|Huron, ON|July 26, 1937|Blyth Union Cemetery|
+fam00262.html|Watson|Finn  /Watson/|  ||||
+fam00262.html|Watson|Harper  /Watson/|  ||||
+fam00262.html|Watson|Jansen  /Watson/|  ||||
 fam00033.html|Watson|Rebecca  /Watson/|March,  1862|Ontario|  1939|Blyth Union Cemetery|
-fam00261.html|Watson|Richard  /Watson/|June 26, 1977|Ontario|||
+fam00262.html|Watson|Richard  /Watson/|June 26, 1977|Ontario|||
 fam00054.html|Watson|Robert  /Watson/|November 10, 1827|Ireland|May 8, 1902|Blyth Union Cemetery|
-fam00232.html|Watson|Robert  /Watson/|  1861|Blanchard, ON|March 20, 1897|Blyth Union Cemetery|
-fam00233.html|Watson|William  /Watson/|December 12, 1865|ON|January 18, 1924|Blyth Union Cemetery|
+fam00233.html|Watson|Robert  /Watson/|  1861|Blanchard, ON|March 20, 1897|Blyth Union Cemetery|
+fam00234.html|Watson|William  /Watson/|December 12, 1865|ON|January 18, 1924|Blyth Union Cemetery|
 fam00033.html|Wells|David Wesley /Wells/|August 17, 1884|Huron, ON|May 7, 1972|Blyth Union Cemetery|
-fam00237.html|Wells|Eliza Jane /Wells/|  1860|Huron, ON|January 19, 1895|MB|
-fam00233.html|Wells|Elizabeth  /Wells/|January 27, 1855|ON|May 16, 1901|Blyth Union Cemetery|
+fam00238.html|Wells|Eliza Jane /Wells/|  1860|Huron, ON|January 19, 1895|MB|
+fam00234.html|Wells|Elizabeth  /Wells/|January 27, 1855|ON|May 16, 1901|Blyth Union Cemetery|
 fam00171.html|Wells|Harvey John /Wells/|July 26, 1893|Huron, ON|May 13, 1965|Blyth Union Cemetery|
 fam00170.html|Wells|Irene Janette /Wells/|  1891||  1977|Blyth Union Cemetery|
 fam00041.html|Wells|James  /Wells/|  1831|Ireland|May 21, 1885|Blyth Union Cemetery|
-fam00235.html|Wells|James  /Wells/|  1861|Blanshard, ON|  1935|Blyth Union Cemetery|
-fam00234.html|Wells|Janet  /Wells/|April 28, 1863|Huron, ON|  1945|Burns Cemetery|
-fam00236.html|Wells|John  /Wells/|  1866|Blanchard, ON|June 27, 1926|Burns Cemetery|
+fam00236.html|Wells|James  /Wells/|  1861|Blanshard, ON|  1935|Blyth Union Cemetery|
+fam00235.html|Wells|Janet  /Wells/|April 28, 1863|Huron, ON|  1945|Burns Cemetery|
+fam00237.html|Wells|John  /Wells/|  1866|Blanchard, ON|June 27, 1926|Burns Cemetery|
 fam00172.html|Wells|Robert James /Wells/|  1886|Huron, ON|  1952|Blyth Union Cemetery|
-fam00231.html|Wells|Samina  /Wells/|February 1, 1870|Huron, ON|January 7, 1954|Blyth Union Cemetery|
+fam00232.html|Wells|Samina  /Wells/|February 1, 1870|Huron, ON|January 7, 1954|Blyth Union Cemetery|
 fam00009.html|Wells|Sarah Maud /Wells/|June 21, 1888|Hullett, ON|June 21, 1973|Blyth Union Cemetery|
 fam00033.html|Wells|William  /Wells/|June,  1857|Ontario|March 25, 1932|Blyth Union Cemetery|
-fam00341.html|West|Albert Ernest /West/|  1882|Calgary, AB|June 12, 1960|Union Cemetery, Calgary|
-fam00417.html|West|Ernest Proctor /West/|February 24, 1917|Calgary, AB|June 26, 1999|Victoria, BC|
-fam00341.html|West|James Ernest /West/|  1914|Calgary, AB|  1914|Calgary, AB|
-fam00446.html|West|Lisa Anne /West/|March 5, 1987|BC|January 15, 2006|Richmond, BC|
-fam00442.html|West|Mary Elizabeth /West/|January 19, 1957|Vancouver, BC|||
-fam00444.html|West|Michael Crossley /West/|September 6, 1941|Vancouver, BC|June 26, 1999|Victoria, BC|
-fam00446.html|West|Richard Ernest /West/|  1950|Vancouver, BC|||
-fam00460.html|West|Teresa  /West/|  ||||
-fam00368.html|Whaley|Sproaty  /Whaley/|  ||||
-fam00368.html|Whaley|W.K.  /Whaley/|  1874||April 26, 1913|Brandon Cemetery|
-fam00427.html|Whaley|William  /Whaley/|  ||||
-fam00427.html|Whaley|William  /Whaley/|  ||||
-fam00421.html|Wheeler|Annie Velma /Wheeler/|August 14, 1914|Belgrave, ON|March 17, 2011|Brandon Cemetery|
-fam00354.html|Wheeler|Caroline Jane /Wheeler/|December 4, 1878||||
-fam00355.html|Wheeler|Cecil Wilkinson /Wheeler/|August 22, 1891||||
-fam00238.html|Wheeler|Charles  /Wheeler/|  1845||October 13, 1913|Brandon Cemetery|
-fam00356.html|Wheeler|Ernest Albert /Wheeler/|May 31, 1885||||
-fam00420.html|Wheeler|George Goldwin /Wheeler/|April 7, 1911|Belgrave, ON|September 10, 1969|Brandon Cemetery|
-fam00357.html|Wheeler|George Herbert /Wheeler/|January 31, 1881|Morris Twp.|May 28, 1964|Brandon Cemetery|
-fam00425.html|Wheeler|Gladys  /Wheeler/|  ||||
-fam00360.html|Wheeler|Howard  /Wheeler/|  ||||
-fam00422.html|Wheeler|Ila  /Wheeler/|  ||||
-fam00358.html|Wheeler|Jesse  /Wheeler/|December 22, 1889||December 25, 1968||
-fam00423.html|Wheeler|Kenneth Herbert /Wheeler/|February 23, 1920|Belgrave, ON|March 5, 1986|Brandon Cemetery|
-fam00418.html|Wheeler|Mary Elizabeth /Wheeler/|  ||||
-fam00359.html|Wheeler|Myrtle  /Wheeler/|July 14, 1896||March 4, 1973||
-fam00419.html|Wheeler|Nora May /Wheeler/|  ||||
-fam00424.html|Wheeler|Ruth  /Wheeler/|  ||||
-fam00356.html|Wheeler|Verna  /Wheeler/|  ||||
+fam00348.html|West|Albert Ernest /West/|  1882|Calgary, AB|June 12, 1960|Union Cemetery, Calgary|
+fam00426.html|West|Ernest Proctor /West/|February 24, 1917|Calgary, AB|June 26, 1999|Victoria, BC|
+fam00348.html|West|James Ernest /West/|  1914|Calgary, AB|  1914|Calgary, AB|
+fam00455.html|West|Lisa Anne /West/|March 5, 1987|BC|January 15, 2006|Richmond, BC|
+fam00451.html|West|Mary Elizabeth /West/|January 19, 1957|Vancouver, BC|||
+fam00453.html|West|Michael Crossley /West/|September 6, 1941|Vancouver, BC|June 26, 1999|Victoria, BC|
+fam00455.html|West|Richard Ernest /West/|  1950|Vancouver, BC|||
+fam00469.html|West|Teresa  /West/|  ||||
+fam00377.html|Whaley|Sproaty  /Whaley/|  ||||
+fam00377.html|Whaley|W.K.  /Whaley/|  1874||April 26, 1913|Brandon Cemetery|
+fam00436.html|Whaley|William  /Whaley/|  ||||
+fam00436.html|Whaley|William  /Whaley/|  ||||
+fam00430.html|Wheeler|Annie Velma /Wheeler/|August 14, 1914|Belgrave, ON|March 17, 2011|Brandon Cemetery|
+fam00363.html|Wheeler|Caroline Jane /Wheeler/|December 4, 1878||||
+fam00364.html|Wheeler|Cecil Wilkinson /Wheeler/|August 22, 1891||||
+fam00239.html|Wheeler|Charles  /Wheeler/|  1845||October 13, 1913|Brandon Cemetery|
+fam00365.html|Wheeler|Ernest Albert /Wheeler/|May 31, 1885||||
+fam00429.html|Wheeler|George Goldwin /Wheeler/|April 7, 1911|Belgrave, ON|September 10, 1969|Brandon Cemetery|
+fam00366.html|Wheeler|George Herbert /Wheeler/|January 31, 1881|Morris Twp.|May 28, 1964|Brandon Cemetery|
+fam00434.html|Wheeler|Gladys  /Wheeler/|  ||||
+fam00369.html|Wheeler|Howard  /Wheeler/|  ||||
+fam00431.html|Wheeler|Ila  /Wheeler/|  ||||
+fam00367.html|Wheeler|Jesse  /Wheeler/|December 22, 1889||December 25, 1968||
+fam00432.html|Wheeler|Kenneth Herbert /Wheeler/|February 23, 1920|Belgrave, ON|March 5, 1986|Brandon Cemetery|
+fam00427.html|Wheeler|Mary Elizabeth /Wheeler/|  ||||
+fam00368.html|Wheeler|Myrtle  /Wheeler/|July 14, 1896||March 4, 1973||
+fam00428.html|Wheeler|Nora May /Wheeler/|  ||||
+fam00433.html|Wheeler|Ruth  /Wheeler/|  ||||
+fam00365.html|Wheeler|Verna  /Wheeler/|  ||||
 fam00142.html|Wheeler|Violet Selena /Wheeler/|April 12, 1894|ON|July 15, 1983|Brandon Cemetery|
-fam00360.html|Wheeler|William Leonard /Wheeler/|July 3, 1877||||
+fam00369.html|Wheeler|William Leonard /Wheeler/|July 3, 1877||||
 fam00064.html|Whitehead|Elizabeth  /Whitehead/|  1788|Knaresborough, Yorkshire, England|August 7, 1873|Kirkby Overblow, Yorkshire, England|
-fam00447.html|Whitlock|Bill  /Whitlock/|  ||||
-fam00262.html|Wickhorst|Alexander  /Wickhorst/|  2000||||
-fam00262.html|Wickhorst|Cameron  /Wickhorst/|  2003||||
-fam00262.html|Wickhorst|Mark  /Wickhorst/|  ||||
+fam00456.html|Whitlock|Bill  /Whitlock/|  ||||
+fam00263.html|Wickhorst|Alexander  /Wickhorst/|  2000||||
+fam00263.html|Wickhorst|Cameron  /Wickhorst/|  2003||||
+fam00263.html|Wickhorst|Mark  /Wickhorst/|  ||||
 fam00089.html|Wiley|William Harold /Wiley/|March 31, 1913|Montana, USA|December 15, 1986|BC|
-fam00432.html|Wilkinson|Allen W /Wilkinson/|July 25, 1929|Perth, ON|||
+fam00441.html|Wilkinson|Allen W /Wilkinson/|July 25, 1929|Perth, ON|||
 fam00069.html|Wilkinson|Ann  /Wilkinson/|January 3, 1847|Leeds, Yorkshire, England|May 21, 1850||
-fam00365.html|Wilkinson|Ann Jane /Wilkinson/|March 15, 1859|Huron, ON|  1943||
-fam00241.html|Wilkinson|Caroline Matilda /Wilkinson/|September 30, 1869|Huron, ON|  1948|Brandon Cemetery|
+fam00374.html|Wilkinson|Ann Jane /Wilkinson/|March 15, 1859|Huron, ON|  1943||
+fam00242.html|Wilkinson|Caroline Matilda /Wilkinson/|September 30, 1869|Huron, ON|  1948|Brandon Cemetery|
 fam00069.html|Wilkinson|Charles  /Wilkinson/|September 29, 1829|Leeds, Yorkshire, England|  1866||
-fam00362.html|Wilkinson|Charles Bateson /Wilkinson/|February 8, 1864|Huron, ON|July,  1947|Brandon Cemetery|
-fam00428.html|Wilkinson|Charles Howard /Wilkinson/|  1899||  1993|Wingham, ON|
-fam00429.html|Wilkinson|Charles M /Wilkinson/|October 18, 1912|Algoma, ON|||
-fam00428.html|Wilkinson|Charles Phillip /Wilkinson/|August 28, 1932||February 3, 1999|Wingham Cemetery|
-fam00453.html|Wilkinson|Clayton Bruce /Wilkinson/|April 10, 1937||||
-fam00430.html|Wilkinson|Cora Mayfred /Wilkinson/|February 18, 1899|Algoma, ON|May 11, 1984|Fort William, ON|
-fam00242.html|Wilkinson|Elizabeth J /Wilkinson/|February 8, 1861|Huron, ON|March 21, 1945|Brandon Cemetery|
+fam00371.html|Wilkinson|Charles Bateson /Wilkinson/|February 8, 1864|Huron, ON|July,  1947|Brandon Cemetery|
+fam00437.html|Wilkinson|Charles Howard /Wilkinson/|  1899||  1993|Wingham, ON|
+fam00438.html|Wilkinson|Charles M /Wilkinson/|October 18, 1912|Algoma, ON|||
+fam00437.html|Wilkinson|Charles Phillip /Wilkinson/|August 28, 1932||February 3, 1999|Wingham Cemetery|
+fam00462.html|Wilkinson|Clayton Bruce /Wilkinson/|April 10, 1937||||
+fam00439.html|Wilkinson|Cora Mayfred /Wilkinson/|February 18, 1899|Algoma, ON|May 11, 1984|Fort William, ON|
+fam00243.html|Wilkinson|Elizabeth J /Wilkinson/|February 8, 1861|Huron, ON|March 21, 1945|Brandon Cemetery|
 fam00069.html|Wilkinson|Ellen  /Wilkinson/|March 26, 1842|Leeds, Yorkshire, England|May 19, 1915||
 fam00021.html|Wilkinson|Ellen  /Wilkinson/|November 1, 1862|Morris, ON|December 24, 1946|Brandon Cemetery|
-fam00366.html|Wilkinson|George  /Wilkinson/|  ||||
-fam00432.html|Wilkinson|George  /Wilkinson/|  ||||
+fam00375.html|Wilkinson|George  /Wilkinson/|  ||||
 fam00069.html|Wilkinson|George  /Wilkinson/|October 14, 1839|Leeds, Yorkshire, England|May 16, 1915||
+fam00441.html|Wilkinson|George  /Wilkinson/|  ||||
 fam00044.html|Wilkinson|George  /Wilkinson/|February 25, 1858||August 1, 1878||
-fam00363.html|Wilkinson|George Washington /Wilkinson/|July 13, 1865|Huron, ON|June  1959|Fort William, ON|
-fam00431.html|Wilkinson|Gladys  /Wilkinson/|  ||||
-fam00457.html|Wilkinson|Gordon Wilford /Wilkinson/|September 22, 1926||March 9, 1985|Smithville Union Cemetery|
-fam00345.html|Wilkinson|Hazel  /Wilkinson/|October 7, 1903|Turnberry Twp|  1989|Brandon Cemetery|
-fam00364.html|Wilkinson|James  /Wilkinson/|May 31, 1861|Huron, ON|||
+fam00372.html|Wilkinson|George Washington /Wilkinson/|July 13, 1865|Huron, ON|June  1959|Fort William, ON|
+fam00440.html|Wilkinson|Gladys  /Wilkinson/|  ||||
+fam00466.html|Wilkinson|Gordon Wilford /Wilkinson/|September 22, 1926||March 9, 1985|Smithville Union Cemetery|
+fam00352.html|Wilkinson|Hazel  /Wilkinson/|October 7, 1903|Turnberry Twp|  1989|Brandon Cemetery|
 fam00044.html|Wilkinson|James  /Wilkinson/|April 9, 1832|Yorkshire, England|February 27, 1912|Brandon Cemetery|
-fam00239.html|Wilkinson|James B /Wilkinson/|  |Huron, ON|||
-fam00456.html|Wilkinson|Jean M /Wilkinson/|July 19, 1937|Belleville, ON|||
-fam00240.html|Wilkinson|John  /Wilkinson/|September 14, 1856|Huron, ON|||
+fam00373.html|Wilkinson|James  /Wilkinson/|May 31, 1861|Huron, ON|||
+fam00240.html|Wilkinson|James B /Wilkinson/|  |Huron, ON|||
+fam00465.html|Wilkinson|Jean M /Wilkinson/|July 19, 1937|Belleville, ON|||
+fam00241.html|Wilkinson|John  /Wilkinson/|September 14, 1856|Huron, ON|||
 fam00069.html|Wilkinson|Joseph  /Wilkinson/|June 16, 1849|Leeds, Yorkshire, England|September 6, 1922|Brandon Cemetery|
-fam00454.html|Wilkinson|Joyce Enid /Wilkinson/|April 20, 1933|Belleville, ON|||
-fam00432.html|Wilkinson|Karl Findlay /Wilkinson/|June 22, 1897|Algoma, ON|||
-fam00364.html|Wilkinson|Kathleen  /Wilkinson/|  ||||
-fam00366.html|Wilkinson|Leslie  /Wilkinson/|  ||||
-fam00433.html|Wilkinson|Lewis Elmer /Wilkinson/|March 25, 1897||February 2, 1990|Wingham, ON|
-fam00435.html|Wilkinson|Marigold  /Wilkinson/|  ||||
-fam00455.html|Wilkinson|Marnel  /Wilkinson/|March 10, 1954|Yellowknife, NWT|||
+fam00463.html|Wilkinson|Joyce Enid /Wilkinson/|April 20, 1933|Belleville, ON|||
+fam00441.html|Wilkinson|Karl Findlay /Wilkinson/|June 22, 1897|Algoma, ON|||
+fam00373.html|Wilkinson|Kathleen  /Wilkinson/|  ||||
+fam00375.html|Wilkinson|Leslie  /Wilkinson/|  ||||
+fam00442.html|Wilkinson|Lewis Elmer /Wilkinson/|March 25, 1897||February 2, 1990|Wingham, ON|
+fam00444.html|Wilkinson|Marigold  /Wilkinson/|  ||||
+fam00464.html|Wilkinson|Marnel  /Wilkinson/|March 10, 1954|Yellowknife, NWT|||
 fam00069.html|Wilkinson|Mary  /Wilkinson/|November 15, 1834|Leeds, Yorkshire, England|October 31, 1919||
-fam00238.html|Wilkinson|Mary Ann /Wilkinson/|March 16, 1855|Huron, ON|  1921|Brandon Cemetery|
-fam00436.html|Wilkinson|Maude  /Wilkinson/|  ||||
-fam00458.html|Wilkinson|Maurice Elden /Wilkinson/|January 22, 1928|Belleville, ON|||
-fam00364.html|Wilkinson|Morris  /Wilkinson/|  ||||
-fam00368.html|Wilkinson|Nellie  /Wilkinson/|  1869|Huron, ON|October 30, 1942|Brandon Cemetery|
+fam00239.html|Wilkinson|Mary Ann /Wilkinson/|March 16, 1855|Huron, ON|  1921|Brandon Cemetery|
+fam00445.html|Wilkinson|Maude  /Wilkinson/|  ||||
+fam00467.html|Wilkinson|Maurice Elden /Wilkinson/|January 22, 1928|Belleville, ON|||
+fam00373.html|Wilkinson|Morris  /Wilkinson/|  ||||
+fam00377.html|Wilkinson|Nellie  /Wilkinson/|  1869|Huron, ON|October 30, 1942|Brandon Cemetery|
 fam00069.html|Wilkinson|Richard  /Wilkinson/|August 24, 1844|Leeds, Yorkshire, England|October 21, 1851||
 fam00073.html|Wilkinson|Robert  /Wilkinson/|  ||||
-fam00243.html|Wilkinson|Thomas  /Wilkinson/|  ||||
-fam00243.html|Wilkinson|Thomas  /Wilkinson/|January 18, 1867|Huron, ON|||
+fam00250.html|Wilkinson|Thomas  /Wilkinson/|July 1, 1827|Leeds, Yorkshire, England|June 17, 1900|Brandon Cemetery|
+fam00244.html|Wilkinson|Thomas  /Wilkinson/|  ||||
+fam00244.html|Wilkinson|Thomas  /Wilkinson/|January 18, 1867|Huron, ON|||
 fam00071.html|Wilkinson|Thomas  /Wilkinson/|  1780|Yorkshire, England|  1861|England|
-fam00249.html|Wilkinson|Thomas  /Wilkinson/|July 1, 1827|Leeds, Yorkshire, England|June 17, 1900|Brandon Cemetery|
-fam00434.html|Wilkinson|Thomas Chester /Wilkinson/|  ||||
-fam00435.html|Wilkinson|Thomas Goldwyn /Wilkinson/|  ||||
-fam00366.html|Wilkinson|Thomas Henry /Wilkinson/|July 7, 1867|Huron, ON|||
-fam00243.html|Wilkinson|Unknown  /Wilkinson/|  ||||
+fam00443.html|Wilkinson|Thomas Chester /Wilkinson/|  ||||
+fam00444.html|Wilkinson|Thomas Goldwyn /Wilkinson/|  ||||
+fam00375.html|Wilkinson|Thomas Henry /Wilkinson/|July 7, 1867|Huron, ON|||
+fam00244.html|Wilkinson|Unknown  /Wilkinson/|  ||||
 fam00069.html|Wilkinson|William  /Wilkinson/|October,  1803|Harrogate, Yorkshire, England|July 6, 1890|England|
-fam00244.html|Wilkinson|William  /Wilkinson/|July 11, 1853|Huron, ON|||
 fam00069.html|Wilkinson|William  /Wilkinson/|May 17, 1837|Leeds, Yorkshire, England|March 13, 1875||
-fam00367.html|Wilkinson|William Berry /Wilkinson/|November 21, 1856|Huron, ON|September,  1946|Brandon Cemetery|
-fam00452.html|Williams|Walter  /Williams/|  ||||
-fam00438.html|Wilson|Beatrice  /Wilson/|December 11, 1895||||
-fam00437.html|Wilson|Ellen Pearl /Wilson/|October 19, 1894||June 23, 1986|Rensselaer, New York|
-fam00358.html|Wilson|Ethel  /Wilson/|June 16, 1889||May 10, 1987|Brandon Cemetery|
+fam00245.html|Wilkinson|William  /Wilkinson/|July 11, 1853|Huron, ON|||
+fam00376.html|Wilkinson|William Berry /Wilkinson/|November 21, 1856|Huron, ON|September,  1946|Brandon Cemetery|
+fam00461.html|Williams|Walter  /Williams/|  ||||
+fam00447.html|Wilson|Beatrice  /Wilson/|December 11, 1895||||
+fam00446.html|Wilson|Ellen Pearl /Wilson/|October 19, 1894||June 23, 1986|Rensselaer, New York|
+fam00367.html|Wilson|Ethel  /Wilson/|June 16, 1889||May 10, 1987|Brandon Cemetery|
 fam00132.html|Wilson|Mary Viola /Wilson/|August 28, 1906|Huron, ON|January 24, 1951|Blyth Union Cemetery|
-fam00459.html|Wilson|Stewart Philip /Wilson/|November 3, 1919||June 5, 1999|Watkins, Glen, USA|
-fam00365.html|Wilson|Thomas  /Wilson/|  ||||
-fam00439.html|Wilson|William Albert /Wilson/|July 3, 1892||February 23, 1970|Watkins, Glen, USA|
-fam00276.html|Workman|Brian  /Workman/|  ||||
-fam00377.html|Workman|Ellen  /Workman/|January 15, 1981|ON|August 28, 2014|Brussels Cemetery|
+fam00468.html|Wilson|Stewart Philip /Wilson/|November 3, 1919||June 5, 1999|Watkins, Glen, USA|
+fam00374.html|Wilson|Thomas  /Wilson/|  ||||
+fam00448.html|Wilson|William Albert /Wilson/|July 3, 1892||February 23, 1970|Watkins, Glen, USA|
+fam00277.html|Workman|Brian  /Workman/|  ||||
+fam00386.html|Workman|Ellen  /Workman/|January 15, 1981|ON|August 28, 2014|Brussels Cemetery|
 fam00012.html|Wright|Christina  /Wright/|August 6, 1875|Forest, ON|  1941|Hillsdale Cemetery|
 fam00017.html|Wright|Daniel  /Wright/|  1867||  1949|Hillsdale Cemetery|
 fam00017.html|Wright|David  /Wright/|September 10, 1830|England|January 7, 1926|Hillsdale Cemetery|
 fam00017.html|Wright|George  /Wright/|  1873||  1942|Hillsdale Cemetery|
+fam00173.html|Wright|Henry  /Wright/|  1926|Lambton, ON|  1926|Hillsdale Cemetery|
 fam00173.html|Wright|James  /Wright/|February  1881||  1959|Hillsdale Cemetery|
+fam00328.html|Wright|James Daniel /Wright/|June 6, 1925|Lambton, ON|March 17, 2015|Resurrection Cemetery|
 fam00174.html|Wright|Jessie  /Wright/|March 31, 1878||March 16, 1966|Lakeview Cemetery|
-fam00175.html|Wright|John  /Wright/|  1871||  1935|Hillsdale Cemetery|
 fam00051.html|Wright|John  /Wright/|  |England|||
+fam00175.html|Wright|John  /Wright/|  1871||  1935|Hillsdale Cemetery|
 fam00176.html|Wright|Margaret Lula /Wright/|  1884|Forest, ON|April 30, 1938|Lakeview Cemetery|
-fam00298.html|Young|Harriet Helen /Young/|July 28, 1919|Sombra, ON|November 5, 2002|Riverside Cemetery|
+fam00299.html|Young|Harriet Helen /Young/|July 28, 1919|Sombra, ON|November 5, 2002|Riverside Cemetery|
 fam00179.html|Yuill|Agnes Elizabeth /Yuill/|January 14, 1877|ON|July 30, 1944|Auld Kirk Cemetery|
-fam00245.html|Yuill|Alexander  /Yuill/|September 15, 1845|ON|Jan 27, 1933|Mt Joy Cemetery|
-fam00282.html|Yuill|Brianna  /Yuill/|November 11, 1996|Huron, ON|||
-fam00282.html|Yuill|Cameron  /Yuill/|August 26, 1959|Wingham, ON|||
-fam00378.html|Yuill|Camerra Ashley Lynn /Yuill/|May 5, 1988|Huron, ON|||
-fam00282.html|Yuill|Claren Alexander /Yuill/|August 5, 1991|Huron, ON|||
+fam00246.html|Yuill|Alexander  /Yuill/|September 15, 1845|ON|Jan 27, 1933|Mt Joy Cemetery|
+fam00283.html|Yuill|Brianna  /Yuill/|November 11, 1996|Huron, ON|||
+fam00283.html|Yuill|Cameron  /Yuill/|August 26, 1959|Wingham, ON|||
+fam00387.html|Yuill|Camerra Ashley Lynn /Yuill/|May 5, 1988|Huron, ON|||
+fam00283.html|Yuill|Claren Alexander /Yuill/|August 5, 1991|Huron, ON|||
 fam00112.html|Yuill|Clarence Joseph /Yuill/|July 15, 1916|Morris Twp, ON|October 30, 1999|Brandon Cemetery|
 fam00113.html|Yuill|Helen Elizabeth /Yuill/|September 28, 1921|Morris Twp, ON|  1988|Wingham Cemetery|
 fam00178.html|Yuill|James Alexander /Yuill/|October 21, 1872|ON|January 7, 1940|Culross Teeswater Cemetery|
@@ -1047,7 +1072,7 @@ fam00114.html|Yuill|Myrtle Aileen /Yuill/|March 7, 1918|Morris Twp, ON|October 4
 fam00028.html|Yuill|Robert  /Yuill/|April 2, 1847|Napanee, ON|December 5, 1908|Brandon Cemetery|
 fam00011.html|Yuill|Robert C /Yuill/|  1913||  1965|Brandon Cemetery|
 fam00179.html|Yuill|Robert Matthew /Yuill/|April 1, 1877|Lanark, ON|February 19, 1946|Auld Kirk Cemetery|
-fam00283.html|Yuill|Ross  /Yuill/|August 1, 1948|Wingham, ON|||
+fam00284.html|Yuill|Ross  /Yuill/|August 1, 1948|Wingham, ON|||
 fam00120.html|Yungblut|Marianna  /Yungblut/|August 5, 1876|ON|  1966|Ball’s Cemetery|
-fam00377.html|Zehr|Jeff  /Zehr/|  ||||
-fam00402.html|Zettler|Howard Joseph /Zettler/|  ||||
+fam00386.html|Zehr|Jeff  /Zehr/|  ||||
+fam00411.html|Zettler|Howard Joseph /Zettler/|  ||||
